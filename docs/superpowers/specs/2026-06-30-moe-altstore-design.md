@@ -10,25 +10,26 @@ Build a public GitHub repo (`MountainofPenguin/moe-altstore`) that serves an Alt
 - Cloudflare blocks requests without a realistic browser `User-Agent` (plain `curl`/`WebFetch` got a 403; adding a Safari UA got 200).
 - `robots.txt` allows scraping the app grid (`Disallow` only covers `/admin`, `/api/`, `/login`, `/search`, etc.).
 - Each app card (`<article class="app-card" data-name="..." data-modified="...">`) links to a detail page at `/app/<app_id>?v=<ts>`, where `app_id` (e.g. `app_1757018667_5902`) is a **stable per-listing ID** — the site edits the same listing in place when a new build drops (name, version text, and download link all change; the ID does not). This ID, not the name string, is the right key to track apps by, since name text is free-form and changes with every version bump.
-- Download links point to Google Drive (`drive.google.com/uc?id=...&export=download`), not a stable direct file URL. For files this size (~150–300MB), Drive serves an HTML "can't scan for viruses" interstitial instead of the raw file, which breaks both naive scraping and on-device AltStore installs.
+- Download links point to Google Drive in the vast majority of cases (361/363 listings checked), in three different URL shapes: `uc?id=<ID>&export=download`, `open?id=<ID>&usp=drive_fs`, and `file/d/<ID>/view?usp=...` — the pipeline extracts the Drive file ID regardless of shape. For files this size (~150–300MB), Drive serves an HTML "can't scan for viruses" interstitial instead of the raw file, which breaks both naive scraping and on-device AltStore installs. A small number of listings use other hosts (GitHub direct links, Proton Drive share links) that are out of scope for this pipeline — see the Neoserver note below.
 - No bundle identifier is exposed anywhere on the site (grid or detail page). The only way to get the real `CFBundleIdentifier`/version is to download the IPA and read `Info.plist`.
 
 ## Scope: tracked apps
 
-38 apps, selected by the user from the full ~220-listing catalog, keyed by their stable site `app_id` (recorded in `config/apps.yaml`):
+37 apps, selected by the user from the full ~220-listing catalog, keyed by their stable site `app_id` (recorded in `config/apps.yaml`):
 
 | App family | Count | Notes |
 |---|---|---|
 | Carrot | 1 | |
 | Webssh | 1 | |
-| Neoserver | 1 | |
 | MoeReddit | 1 | (Apollo, a separate Reddit client mod, explicitly excluded) |
 | Infuse | 2 | Moe Plus, Plus 2.5 |
 | Youtube | 10 | Moe Multi, Moe YTK, YTPlus (Cyan Edition), LRD, DLTube ×2, Moe LRD Cracked, Moe SY, Moe YTPlus Temp Free, Youtube Music (9.26) |
 | Instagram | 17 | Moe Multi, SY, DL, LRD, AC, BH, IGFormat, INK Plus, RyukGram, NYX ×2, Regram, Rocket, SC, Theta |
-| Twitch | 5 | bare "Twitch" listing (no version shown — handled as a degraded/skippable case), Adfree, Tweach, TwitchControl, Twitchv/Tweach |
+| Twitch | 5 | bare "Twitch" listing (does have a version/size, just no version number embedded in its name text), Adfree, Tweach, TwitchControl, Twitchv/Tweach |
 
 Excluded per explicit decision: "YTmusic 9.14" (separate, older listing from a different modder than the included "Youtube Music 9.26").
+
+**Neoserver excluded**: its download link is a Proton Drive share URL (`drive.proton.me/urls/...`), not Google Drive. Proton Drive share links only resolve through in-browser decryption (the URL fragment after `#` is a decryption key that never reaches the server) — there's no scriptable direct download, so it can't be processed by this pipeline. Dropped from tracking per user decision rather than left permanently failing.
 
 `config/apps.yaml` is user-editable — adding/removing a tracked app later means adding/removing an `app_id` entry, not touching scraper code.
 
@@ -97,6 +98,6 @@ Per app:
 
 ## Accepted risks (explicitly signed off by user)
 
-- First run processes all 38 apps in one pass (~38 IPA downloads + re-uploads); subsequent runs only touch changed apps.
+- First run processes all 37 apps in one pass (~37 IPA downloads + re-uploads); subsequent runs only touch changed apps.
 - Hosting modded copies of copyrighted apps (YouTube, Instagram, Twitch, etc.) publicly on GitHub Releases carries real DMCA/takedown exposure for the repo.
 - Google Drive may rate-limit or block the GitHub Actions runner IP on a given run; this degrades gracefully (that app is skipped and retried next run) but isn't fully preventable.
