@@ -1,11 +1,5 @@
 {
-  "name": "Moe AltStore",
-  "identifier": "com.mountainofpenguin.moealtstore",
   "apiVersion": "v2",
-  "subtitle": "Automated mirror of moe.mohkg1017.pro app mods",
-  "description": "Scraped and re-hosted daily \u2014 apps are re-downloaded and republished whenever a new version appears on the source site.",
-  "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moe_icon.png",
-  "website": "https://github.com/MountainofPenguin/moe-altstore",
   "apps": [
     {
       "appPermissions": {
@@ -789,5 +783,12 @@
         }
       ]
     }
-  ]
+  ],
+  "description": "Scraped and re-hosted daily \u2014 apps are re-downloaded and republished whenever a new version appears on the source site.",
+  "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moe_icon.png",
+  "identifier": "com.mountainofpenguin.moealtstore",
+  "name": "Moe AltStore",
+  "news": [],
+  "subtitle": "Automated mirror of moe.mohkg1017.pro app mods",
+  "website": "https://github.com/MountainofPenguin/moe-altstore"
 }
