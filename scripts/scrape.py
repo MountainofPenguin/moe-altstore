@@ -6,7 +6,7 @@ import time
 from dataclasses import dataclass
 from urllib.parse import urljoin, urlparse, parse_qs
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://moe.mohkg1017.pro"
@@ -108,7 +108,7 @@ def fetch_page(session: requests.Session, page: int) -> str:
 
 def scrape_tracked_apps(tracked_ids: set[str]) -> dict[str, AppCard]:
     """Scan all grid pages, return the latest card for every tracked app_id found."""
-    session = requests.Session()
+    session = requests.Session(impersonate="chrome")
     session.headers["User-Agent"] = USER_AGENT
 
     found: dict[str, AppCard] = {}

@@ -1,6 +1,6 @@
 # tests/test_scrape.py
 import scrape
-import requests
+from curl_cffi import requests
 from pathlib import Path
 
 
@@ -147,7 +147,7 @@ def test_fetch_page_requests_correct_url_and_params(monkeypatch):
     assert html == "<html></html>"
     assert captured["url"] == f"{scrape.BASE_URL}/"
     assert captured["params"] == {"page": 3}
-    assert captured["headers"]["User-Agent"] == scrape.USER_AGENT
+    assert captured["headers"]["user-agent"] == scrape.USER_AGENT
 
 
 def test_scrape_tracked_apps_aggregates_across_pages(monkeypatch):

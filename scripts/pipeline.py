@@ -6,7 +6,7 @@ import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 
-import requests
+from curl_cffi import requests
 import yaml
 
 from build_source import build_source
@@ -66,7 +66,7 @@ def process_single_app(app_config: dict, card, tmp_dir: Path) -> dict:
     bundle_identifier, plist_version = extract_bundle_info(ipa_path)
     sha256, size = sha256_and_size(ipa_path)
 
-    icon_response = requests.get(card.icon_url, timeout=30)
+    icon_response = requests.get(card.icon_url, timeout=30, impersonate="chrome")
     icon_response.raise_for_status()
     png_bytes = convert_icon_to_png(icon_response.content)
     icon_path = ICONS_DIR / f"{app_config['slug']}.png"

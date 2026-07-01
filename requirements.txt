@@ -3,3 +3,4 @@ beautifulsoup4>=4.12,<5
 gdown>=5.2,<6
 Pillow>=10.4,<11
 PyYAML>=6.0,<7
+curl_cffi>=0.7,<1
