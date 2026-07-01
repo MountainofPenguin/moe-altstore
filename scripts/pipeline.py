@@ -63,7 +63,7 @@ def process_single_app(app_config: dict, card, tmp_dir: Path) -> dict:
     ipa_path = tmp_dir / f"{app_config['slug']}.ipa"
     download_ipa(card, ipa_path)
 
-    bundle_identifier, plist_version = extract_bundle_info(ipa_path)
+    bundle_identifier, plist_version, min_os_version = extract_bundle_info(ipa_path)
     sha256, size = sha256_and_size(ipa_path)
 
     icon_response = requests.get(card.icon_url, timeout=30, impersonate="chrome")
@@ -78,13 +78,12 @@ def process_single_app(app_config: dict, card, tmp_dir: Path) -> dict:
 
     version_entry = {
         "version": plist_version,
-        "date": datetime.fromtimestamp(card.data_modified, tz=timezone.utc)
-        .isoformat()
-        .replace("+00:00", "Z"),
+        "date": datetime.fromtimestamp(card.data_modified, tz=timezone.utc).strftime("%Y-%m-%d"),
         "description": card.changelog or card.description,
         "download_url": download_url,
         "size": size,
         "sha256": sha256,
+        "min_os_version": min_os_version,
     }
 
     return {

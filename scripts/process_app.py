@@ -23,8 +23,8 @@ def sha256_and_size(file_path: Path) -> tuple[str, int]:
     return hasher.hexdigest(), size
 
 
-def extract_bundle_info(ipa_path: Path) -> tuple[str, str]:
-    """Read CFBundleIdentifier and CFBundleShortVersionString from an .ipa."""
+def extract_bundle_info(ipa_path: Path) -> tuple[str, str, str]:
+    """Read CFBundleIdentifier, CFBundleShortVersionString, and MinimumOSVersion from an .ipa."""
     with zipfile.ZipFile(ipa_path) as ipa:
         info_plist_names = [
             name
@@ -37,7 +37,11 @@ def extract_bundle_info(ipa_path: Path) -> tuple[str, str]:
             raise ValueError(f"No top-level Info.plist found in {ipa_path}")
         plist_bytes = ipa.read(info_plist_names[0])
     plist = plistlib.loads(plist_bytes)
-    return plist["CFBundleIdentifier"], plist["CFBundleShortVersionString"]
+    return (
+        plist["CFBundleIdentifier"],
+        plist["CFBundleShortVersionString"],
+        plist.get("MinimumOSVersion", "12.0"),
+    )
 
 
 def convert_icon_to_png(icon_bytes: bytes) -> bytes:

@@ -23,16 +23,35 @@ def test_extract_bundle_info_reads_info_plist(tmp_path):
         {
             "CFBundleIdentifier": "com.example.testapp",
             "CFBundleShortVersionString": "1.2.3",
+            "MinimumOSVersion": "15.0",
         }
     )
     with zipfile.ZipFile(ipa_path, "w") as ipa:
         ipa.writestr("Payload/TestApp.app/Info.plist", plist_bytes)
         ipa.writestr("Payload/TestApp.app/TestApp", b"fake binary")
 
-    bundle_id, version = process_app.extract_bundle_info(ipa_path)
+    bundle_id, version, min_os_version = process_app.extract_bundle_info(ipa_path)
 
     assert bundle_id == "com.example.testapp"
     assert version == "1.2.3"
+    assert min_os_version == "15.0"
+
+
+def test_extract_bundle_info_defaults_min_os_version_when_absent(tmp_path):
+    ipa_path = tmp_path / "sample.ipa"
+    plist_bytes = plistlib.dumps(
+        {
+            "CFBundleIdentifier": "com.example.testapp",
+            "CFBundleShortVersionString": "1.2.3",
+        }
+    )
+    with zipfile.ZipFile(ipa_path, "w") as ipa:
+        ipa.writestr("Payload/TestApp.app/Info.plist", plist_bytes)
+        ipa.writestr("Payload/TestApp.app/TestApp", b"fake binary")
+
+    _, _, min_os_version = process_app.extract_bundle_info(ipa_path)
+
+    assert min_os_version == "12.0"
 
 
 def test_extract_bundle_info_raises_when_missing(tmp_path):
