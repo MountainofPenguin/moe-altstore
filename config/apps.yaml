@@ -1,0 +1,189 @@
+# Tracked apps: stable site app_id -> repo metadata.
+# To add or remove a tracked app, edit this file only — no code changes needed.
+# Find an app's app_id from its "Details" link on moe.mohkg1017.pro
+# (the URL looks like /app/app_1757018667_5902).
+apps:
+  - app_id: app_1758405429_2536
+    slug: carrot
+    name: "Carrot"
+    subtitle: "Weather app, Moe Pro patch"
+
+  - app_id: app_1757008016_7340
+    slug: webssh
+    name: "Webssh"
+    subtitle: "SSH client, Pro patch"
+
+  - app_id: app_1769231115_3988
+    slug: moereddit
+    name: "MoeReddit"
+    subtitle: "Reddit client, MoeReddit build"
+
+  - app_id: app_1776873562_1009
+    slug: infuse-moe-plus
+    name: "Infuse (Moe Plus)"
+    subtitle: "Media player, Moe Plus patch"
+
+  - app_id: app_1757008016_2941
+    slug: infuse-plus-2-5
+    name: "Infuse (Plus 2.5)"
+    subtitle: "Media player, Plus 2.5 patch"
+
+  - app_id: app_1757018667_5902
+    slug: youtube-moe-multi
+    name: "YouTube (Moe Multi)"
+    subtitle: "Multi-tweak loader: YTKillerPlus, DLTube, TubeLRD, YTLite, and more"
+
+  - app_id: app_1757017627_3645
+    slug: youtube-moe-ytk
+    name: "YouTube (Moe YTK)"
+    subtitle: "YTKillerPlus tweak build"
+
+  - app_id: app_1757008016_5162
+    slug: youtube-ytplus-cyan
+    name: "YouTube (YTPlus Cyan Edition)"
+    subtitle: "YTPlus tweak build, Cyan Edition"
+
+  - app_id: app_1757017764_8118
+    slug: youtube-lrd
+    name: "YouTube (LRD)"
+    subtitle: "TubeLRD tweak build"
+
+  - app_id: app_1757018539_5457
+    slug: youtube-dltube-patched
+    name: "YouTube (DLTube, Moe Patched)"
+    subtitle: "DLTube tweak build"
+
+  - app_id: app_1767418206_7299
+    slug: youtube-dltube-cracked
+    name: "YouTube (Moe DLTube, Cracked)"
+    subtitle: "DLTube tweak build, cracked"
+
+  - app_id: app_1767418254_3524
+    slug: youtube-lrd-cracked
+    name: "YouTube (Moe LRD, Cracked)"
+    subtitle: "TubeLRD tweak build, cracked"
+
+  - app_id: app_1759517364_7181
+    slug: youtube-moe-sy
+    name: "YouTube (Moe SY)"
+    subtitle: "SY tweak build"
+
+  - app_id: app_1757008016_9593
+    slug: youtube-ytplus-temp-free
+    name: "YouTube (Moe YTPlus, Temp Free)"
+    subtitle: "YTPlus tweak build"
+
+  - app_id: app_1770927442_3128
+    slug: youtube-music
+    name: "YouTube Music"
+    subtitle: "Ultimate Enhanced tweak build"
+
+  - app_id: app_1757008016_9180
+    slug: instagram-moe-multi
+    name: "Instagram (Moe Multi)"
+    subtitle: "Multi-tweak loader"
+
+  - app_id: app_1757008016_2176
+    slug: instagram-sy
+    name: "Instagram (SY)"
+    subtitle: "SY tweak build"
+
+  - app_id: app_1757008016_6988
+    slug: instagram-dl
+    name: "Instagram (DL)"
+    subtitle: "DL tweak build"
+
+  - app_id: app_1757008016_8064
+    slug: instagram-lrd
+    name: "Instagram (LRD)"
+    subtitle: "LRD tweak build"
+
+  - app_id: app_1757008016_8023
+    slug: instagram-ac
+    name: "Instagram (AC)"
+    subtitle: "AC tweak build"
+
+  - app_id: app_1757008016_5831
+    slug: instagram-bh
+    name: "Instagram (BH)"
+    subtitle: "BH tweak build"
+
+  - app_id: app_1767395377_5704
+    slug: instagram-dl-cracked
+    name: "Instagram (DL, Cracked)"
+    subtitle: "DL tweak build, cracked"
+
+  - app_id: app_1757008016_2103
+    slug: instagram-igformat
+    name: "Instagram (IGFormat)"
+    subtitle: "IGFormat tweak build"
+
+  - app_id: app_1757008016_8735
+    slug: instagram-ink-plus
+    name: "Instagram (INK Plus)"
+    subtitle: "INK Plus tweak build"
+
+  - app_id: app_1767395338_6014
+    slug: instagram-lrd-cracked
+    name: "Instagram (LRD, Cracked)"
+    subtitle: "LRD tweak build, cracked"
+
+  - app_id: app_1776979936_3686
+    slug: instagram-ryukgram
+    name: "Instagram (Moe RyukGram)"
+    subtitle: "RyukGram tweak build"
+
+  - app_id: app_1767805749_5206
+    slug: instagram-nyx-b2-cracked
+    name: "Instagram (NYX B2, Cracked)"
+    subtitle: "NYX tweak build, cracked"
+
+  - app_id: app_1757008016_8129
+    slug: instagram-nyx-b4
+    name: "Instagram (NYX B4)"
+    subtitle: "NYX tweak build"
+
+  - app_id: app_1770262907_3468
+    slug: instagram-regram
+    name: "Instagram (Regram)"
+    subtitle: "Regram OLED tweak build"
+
+  - app_id: app_1757008016_8648
+    slug: instagram-rocket-cracked
+    name: "Instagram (Rocket, Cracked)"
+    subtitle: "Rocket tweak build, cracked"
+
+  - app_id: app_1758659552_5935
+    slug: instagram-sc
+    name: "Instagram (SC)"
+    subtitle: "SC tweak build"
+
+  - app_id: app_1757008016_6127
+    slug: instagram-theta
+    name: "Instagram (Theta)"
+    subtitle: "Theta tweak build"
+
+  - app_id: app_1757008016_1558
+    slug: twitch-bare
+    name: "Twitch"
+    subtitle: "Standard build"
+
+  - app_id: app_1768431327_4203
+    slug: twitch-adfree
+    name: "Twitch (Adfree, Moe Control)"
+    subtitle: "Adfree tweak build"
+
+  - app_id: app_1776406804_3230
+    slug: twitch-tweach
+    name: "Twitch (Tweach)"
+    subtitle: "Tweach tweak build"
+
+  - app_id: app_1776873777_5494
+    slug: twitch-twitchcontrol
+    name: "Twitch (Moe TwitchControl)"
+    subtitle: "TwitchControl tweak build"
+
+  - app_id: app_1776873611_4164
+    slug: twitchv-tweach
+    name: "Twitch (Twitchv, Moe Tweach)"
+    subtitle: "Tweach tweak build"
