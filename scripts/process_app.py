@@ -38,3 +38,18 @@ def extract_bundle_info(ipa_path: Path) -> tuple[str, str]:
         plist_bytes = ipa.read(info_plist_names[0])
     plist = plistlib.loads(plist_bytes)
     return plist["CFBundleIdentifier"], plist["CFBundleShortVersionString"]
+
+
+def convert_icon_to_png(icon_bytes: bytes) -> bytes:
+    """Re-encode an icon (webp or otherwise) as PNG bytes."""
+    image = Image.open(io.BytesIO(icon_bytes)).convert("RGBA")
+    output = io.BytesIO()
+    image.save(output, format="PNG")
+    return output.getvalue()
+
+
+def choose_downloader(download_url: str) -> str:
+    """Return 'gdown' for Google Drive URLs, 'requests' for anything else."""
+    if "drive.google.com" in download_url:
+        return "gdown"
+    return "requests"

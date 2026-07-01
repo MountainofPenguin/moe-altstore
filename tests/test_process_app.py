@@ -45,3 +45,31 @@ def test_extract_bundle_info_raises_when_missing(tmp_path):
         assert False, "expected ValueError"
     except ValueError:
         pass
+
+
+import io
+
+from PIL import Image
+
+
+def test_convert_icon_to_png_produces_valid_png_from_webp():
+    source_image = Image.new("RGB", (8, 8), color=(255, 0, 0))
+    buffer = io.BytesIO()
+    source_image.save(buffer, format="WEBP")
+    webp_bytes = buffer.getvalue()
+
+    png_bytes = process_app.convert_icon_to_png(webp_bytes)
+
+    assert png_bytes[:8] == b"\x89PNG\r\n\x1a\n"
+    result_image = Image.open(io.BytesIO(png_bytes))
+    assert result_image.format == "PNG"
+    assert result_image.size == (8, 8)
+
+
+def test_choose_downloader_drive_url():
+    assert process_app.choose_downloader("https://drive.google.com/uc?id=X") == "gdown"
+
+
+def test_choose_downloader_other_url():
+    url = "https://github.com/user/repo/releases/download/v1/app.ipa"
+    assert process_app.choose_downloader(url) == "requests"
