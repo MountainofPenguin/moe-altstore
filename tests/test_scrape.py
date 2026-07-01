@@ -73,3 +73,49 @@ def test_parse_app_cards_handles_file_d_drive_url():
     cards = {card.app_id: card for card in scrape.parse_app_cards(html)}
     twitch = cards["app_1757008016_1558"]
     assert twitch.drive_file_id == "1h34UxeYnGT6-LK8OkkAmv_9ACbHa791I"
+
+
+def test_parse_app_cards_skips_malformed_card_missing_data_modified():
+    html = """
+    <div class="apps-grid">
+    <article class="app-card" data-name="Broken App">
+        <a class="app-card-open-link" href="/app/app_1111111111_9999?v=1111111111"></a>
+        <div class="app-header">
+            <div class="app-icon">
+                <img src="/static/icons/Broken_xlarge.webp" alt="Broken App">
+            </div>
+        </div>
+        <p class="app-description">Broken App for iOS.</p>
+        <div class="app-meta">
+            <div class="app-meta-row">
+                <span>v1.0</span>
+                <span>10 MB</span>
+            </div>
+        </div>
+        <div class="app-actions">
+            <a href="https://drive.google.com/uc?id=1BrokenAppDriveId&amp;export=download" class="app-action primary download-link">Download</a>
+        </div>
+    </article>
+    <article class="app-card" data-name="Good App" data-modified="1780000000">
+        <a class="app-card-open-link" href="/app/app_2222222222_8888?v=1780000000"></a>
+        <div class="app-header">
+            <div class="app-icon">
+                <img src="/static/icons/Good_xlarge.webp" alt="Good App">
+            </div>
+        </div>
+        <p class="app-description">Good App for iOS.</p>
+        <div class="app-meta">
+            <div class="app-meta-row">
+                <span>v2.0</span>
+                <span>20 MB</span>
+            </div>
+        </div>
+        <div class="app-actions">
+            <a href="https://drive.google.com/uc?id=1GoodAppDriveId&amp;export=download" class="app-action primary download-link">Download</a>
+        </div>
+    </article>
+    </div>
+    """
+    cards = scrape.parse_app_cards(html)
+    ids = {card.app_id for card in cards}
+    assert ids == {"app_2222222222_8888"}

@@ -64,33 +64,37 @@ def parse_app_cards(html: str) -> list[AppCard]:
         download_link = article.select_one("a.download-link")
         if download_link is None:
             continue
-        download_url = download_link["href"]
 
-        icon_img = article.select_one(".app-icon img")
-        icon_url = urljoin(BASE_URL, icon_img["src"]) if icon_img else ""
+        try:
+            download_url = download_link["href"]
 
-        description_el = article.select_one("p.app-description")
-        description = description_el.get_text(strip=True) if description_el else ""
+            icon_img = article.select_one(".app-icon img")
+            icon_url = urljoin(BASE_URL, icon_img["src"]) if icon_img else ""
 
-        changelog_el = article.select_one(".app-changelog-preview .changelog-text")
-        changelog = changelog_el.get_text(strip=True) if changelog_el else None
+            description_el = article.select_one("p.app-description")
+            description = description_el.get_text(strip=True) if description_el else ""
 
-        meta_spans = article.select(".app-meta-row span")
-        version_text = meta_spans[0].get_text(strip=True) if len(meta_spans) > 0 else ""
-        size_text = meta_spans[1].get_text(strip=True) if len(meta_spans) > 1 else ""
+            changelog_el = article.select_one(".app-changelog-preview .changelog-text")
+            changelog = changelog_el.get_text(strip=True) if changelog_el else None
 
-        cards.append(
-            AppCard(
-                app_id=id_match.group(1),
-                name=article["data-name"],
-                data_modified=int(article["data-modified"]),
-                icon_url=icon_url,
-                description=description,
-                changelog=changelog,
-                version_text=version_text,
-                size_text=size_text,
-                drive_file_id=extract_drive_file_id(download_url) or "",
-                download_url=download_url,
+            meta_spans = article.select(".app-meta-row span")
+            version_text = meta_spans[0].get_text(strip=True) if len(meta_spans) > 0 else ""
+            size_text = meta_spans[1].get_text(strip=True) if len(meta_spans) > 1 else ""
+
+            cards.append(
+                AppCard(
+                    app_id=id_match.group(1),
+                    name=article["data-name"],
+                    data_modified=int(article["data-modified"]),
+                    icon_url=icon_url,
+                    description=description,
+                    changelog=changelog,
+                    version_text=version_text,
+                    size_text=size_text,
+                    drive_file_id=extract_drive_file_id(download_url) or "",
+                    download_url=download_url,
+                )
             )
-        )
+        except (KeyError, ValueError):
+            continue
     return cards
