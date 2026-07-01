@@ -1,5 +1,6 @@
 # tests/test_scrape.py
 import scrape
+import requests
 from pathlib import Path
 
 
@@ -119,3 +120,52 @@ def test_parse_app_cards_skips_malformed_card_missing_data_modified():
     cards = scrape.parse_app_cards(html)
     ids = {card.app_id for card in cards}
     assert ids == {"app_2222222222_8888"}
+
+
+def test_fetch_page_requests_correct_url_and_params(monkeypatch):
+    captured = {}
+
+    class FakeResponse:
+        text = "<html></html>"
+
+        def raise_for_status(self):
+            pass
+
+    def fake_get(self, url, params=None, timeout=None):
+        captured["url"] = url
+        captured["params"] = params
+        captured["headers"] = dict(self.headers)
+        captured["timeout"] = timeout
+        return FakeResponse()
+
+    monkeypatch.setattr(requests.Session, "get", fake_get)
+    session = requests.Session()
+    session.headers["User-Agent"] = scrape.USER_AGENT
+
+    html = scrape.fetch_page(session, 3)
+
+    assert html == "<html></html>"
+    assert captured["url"] == f"{scrape.BASE_URL}/"
+    assert captured["params"] == {"page": 3}
+    assert captured["headers"]["User-Agent"] == scrape.USER_AGENT
+
+
+def test_scrape_tracked_apps_aggregates_across_pages(monkeypatch):
+    fixture_html = FIXTURE_PATH.read_text()
+    pages_returned = []
+
+    def fake_fetch_page(session, page):
+        pages_returned.append(page)
+        if page == 1:
+            return fixture_html
+        return "<html><div class='apps-grid'></div></html>"
+
+    monkeypatch.setattr(scrape, "fetch_page", fake_fetch_page)
+    monkeypatch.setattr(scrape, "NUM_PAGES", 2)
+    monkeypatch.setattr(scrape, "PAGE_DELAY_SECONDS", 0)
+
+    found = scrape.scrape_tracked_apps({"app_1758405429_2536", "app_1757008016_7340"})
+
+    assert pages_returned == [1, 2]
+    assert set(found.keys()) == {"app_1758405429_2536", "app_1757008016_7340"}
+    assert found["app_1758405429_2536"].name == "Carrot 6.5 Pro Moe with Working Widgets"

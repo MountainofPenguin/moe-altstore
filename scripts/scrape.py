@@ -98,3 +98,25 @@ def parse_app_cards(html: str) -> list[AppCard]:
         except (KeyError, ValueError):
             continue
     return cards
+
+
+def fetch_page(session: requests.Session, page: int) -> str:
+    response = session.get(f"{BASE_URL}/", params={"page": page}, timeout=30)
+    response.raise_for_status()
+    return response.text
+
+
+def scrape_tracked_apps(tracked_ids: set[str]) -> dict[str, AppCard]:
+    """Scan all grid pages, return the latest card for every tracked app_id found."""
+    session = requests.Session()
+    session.headers["User-Agent"] = USER_AGENT
+
+    found: dict[str, AppCard] = {}
+    for page in range(1, NUM_PAGES + 1):
+        html = fetch_page(session, page)
+        for card in parse_app_cards(html):
+            if card.app_id in tracked_ids:
+                found[card.app_id] = card
+        if page < NUM_PAGES:
+            time.sleep(PAGE_DELAY_SECONDS)
+    return found
