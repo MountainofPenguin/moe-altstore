@@ -1,0 +1,5 @@
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+gdown>=5.2,<6
+Pillow>=10.4,<11
+PyYAML>=6.0,<7
