@@ -83,6 +83,14 @@
           "minOSVersion": "16.0",
           "size": 144160905,
           "version": "2026.27.0"
+        },
+        {
+          "date": "2026-07-10",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.27.1/moereddit.ipa",
+          "localizedDescription": "for V2.2 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 144155032,
+          "version": "2026.27.1"
         }
       ]
     },
@@ -94,7 +102,7 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
-      "localizedDescription": "Infuse 8.4.8 Moe Plus for iOS.",
+      "localizedDescription": "Infuse 8.4.8 2.6 Moe Plus for iOS.",
       "name": "Infuse (Moe Plus)",
       "screenshots": [],
       "subtitle": "Media player, Moe Plus patch",
@@ -108,11 +116,11 @@
           "version": "8.4.7"
         },
         {
-          "date": "2026-07-02",
+          "date": "2026-07-10",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.4.8/infuse-moe-plus.ipa",
-          "localizedDescription": "Infuse 8.4.8 Moe Plus for iOS.",
+          "localizedDescription": "Infuse 8.4.8 2.6 Moe Plus for iOS.",
           "minOSVersion": "18.0",
-          "size": 97916793,
+          "size": 98027322,
           "version": "8.4.8"
         }
       ]
@@ -154,11 +162,11 @@
       "subtitle": "Multi-tweak loader: YTKillerPlus, DLTube, TubeLRD, YTLite, and more",
       "versions": [
         {
-          "date": "2026-07-02",
+          "date": "2026-07-10",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.26.4/youtube-moe-multi.ipa",
           "localizedDescription": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
           "minOSVersion": "16.0",
-          "size": 190530956,
+          "size": 190523507,
           "version": "21.26.4"
         }
       ]
@@ -338,11 +346,11 @@
       "subtitle": "YTPlus tweak build",
       "versions": [
         {
-          "date": "2026-07-02",
+          "date": "2026-07-10",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.26.4/youtube-ytplus-temp-free.ipa",
           "localizedDescription": "Youtube 21.26.4 Moe YTPlus 5.2.1 Temp Free for iOS.",
           "minOSVersion": "16.0",
-          "size": 141267484,
+          "size": 141259911,
           "version": "21.26.4"
         }
       ]
