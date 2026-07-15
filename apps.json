@@ -419,7 +419,7 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
-      "localizedDescription": "Youtube Music 9.26 Ultimate Enhanced 2.4.1 for iOS.",
+      "localizedDescription": "Youtube Music 9.28 Ultimate Enhanced 2.4.1 for iOS.",
       "name": "YouTube Music",
       "screenshots": [],
       "subtitle": "Ultimate Enhanced tweak build",
@@ -431,6 +431,14 @@
           "minOSVersion": "16.0",
           "size": 101030358,
           "version": "9.26.2"
+        },
+        {
+          "date": "2026-07-15",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.28.4/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.28 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "16.0",
+          "size": 101576396,
+          "version": "9.28.4"
         }
       ]
     },
