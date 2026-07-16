@@ -61,14 +61,6 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
-          "date": "2026-06-29",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.25.1/moereddit.ipa",
-          "localizedDescription": "for V2.1 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 143387945,
-          "version": "2026.25.1"
-        },
-        {
           "date": "2026-07-02",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.26.0/moereddit.ipa",
           "localizedDescription": "for V2.2 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu",
@@ -99,6 +91,14 @@
           "minOSVersion": "16.0",
           "size": 143962304,
           "version": "2026.28.0"
+        },
+        {
+          "date": "2026-07-16",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.28.1/moereddit.ipa",
+          "localizedDescription": "for V2.2 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
+          "minOSVersion": "16.0",
+          "size": 144021521,
+          "version": "2026.28.1"
         }
       ]
     },
@@ -184,6 +184,14 @@
           "minOSVersion": "16.0",
           "size": 206114219,
           "version": "21.28.3"
+        },
+        {
+          "date": "2026-07-16",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.24.3/youtube-moe-multi.ipa",
+          "localizedDescription": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
+          "minOSVersion": "16.0",
+          "size": 204092648,
+          "version": "21.24.3"
         }
       ]
     },
@@ -195,7 +203,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
-      "localizedDescription": "YouTube 21.28.3 YTKillerPlus 5.7.6 Recommended Build for iOS.",
+      "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
       "name": "YouTube (Moe YTK)",
       "screenshots": [],
       "subtitle": "YTKillerPlus tweak build",
@@ -215,6 +223,14 @@
           "minOSVersion": "16.0",
           "size": 159931640,
           "version": "21.28.3"
+        },
+        {
+          "date": "2026-07-16",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.24.3/youtube-moe-ytk.ipa",
+          "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
+          "minOSVersion": "16.0",
+          "size": 157911630,
+          "version": "21.24.3"
         }
       ]
     },
@@ -472,11 +488,11 @@
           "version": "437.2.0"
         },
         {
-          "date": "2026-07-14",
+          "date": "2026-07-16",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
           "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
           "minOSVersion": "16.3",
-          "size": 395247005,
+          "size": 395424364,
           "version": "438.0.0"
         }
       ]
@@ -645,7 +661,7 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ink-plus.png",
-      "localizedDescription": "Instagram 438.0.0 INK Plus 4.6 for iOS.",
+      "localizedDescription": "Instagram 438.0.0 INK Plus 4.7.3 for iOS.",
       "name": "Instagram (INK Plus)",
       "screenshots": [],
       "subtitle": "INK Plus tweak build",
@@ -667,11 +683,11 @@
           "version": "437.2.0"
         },
         {
-          "date": "2026-07-14",
+          "date": "2026-07-16",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-438.0.0/instagram-ink-plus.ipa",
-          "localizedDescription": "Instagram 438.0.0 INK Plus 4.6 for iOS.",
+          "localizedDescription": "Instagram 438.0.0 INK Plus 4.7.3 for iOS.",
           "minOSVersion": "16.3",
-          "size": 305302475,
+          "size": 305866852,
           "version": "438.0.0"
         }
       ]
