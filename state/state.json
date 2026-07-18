@@ -281,7 +281,7 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1784208484,
+    "data_modified": 1784320088,
     "description": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 4 fingers",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
@@ -304,12 +304,12 @@
         "version": "437.2.0"
       },
       {
-        "date": "2026-07-16",
+        "date": "2026-07-17",
         "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
         "min_os_version": "16.3",
-        "sha256": "8d0ee6432a4d1c8bf3c485adb86a24cc7b0fcbd8675f8a7d656c385e4acfdd35",
-        "size": 395424364,
+        "sha256": "8b5af04f292e45e206d94053ebe5dfd8617efbbbf8dc8908d7f7e30d5020a0c4",
+        "size": 395403719,
         "version": "438.0.0"
       }
     ]
@@ -425,7 +425,7 @@
   "instagram-rocket-cracked": {
     "app_id": "app_1757008016_8648",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1784003426,
+    "data_modified": 1784320088,
     "description": "Instagram 438.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-rocket-cracked.png",
     "versions": [
@@ -448,12 +448,12 @@
         "version": "437.2.0"
       },
       {
-        "date": "2026-07-14",
+        "date": "2026-07-17",
         "description": "Instagram 438.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-438.0.0/instagram-rocket-cracked.ipa",
         "min_os_version": "16.3",
-        "sha256": "b87a95f50fdfe32f08a99eab24d3a8063f88859e32c06dc67bfcdc640dfcd1f3",
-        "size": 296811864,
+        "sha256": "4b76e14523fbd60c245658914f2ca3751ae17f07876419aabb7fc8db262f290a",
+        "size": 296793471,
         "version": "438.0.0"
       }
     ]
@@ -857,7 +857,7 @@
   "youtube-moe-multi": {
     "app_id": "app_1757018667_5902",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1784208484,
+    "data_modified": 1784320088,
     "description": "DONT SIGN WITH ESIGN AND hold down with 4 fingers to open multi menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-multi.png",
     "versions": [
@@ -871,15 +871,6 @@
         "version": "21.26.4"
       },
       {
-        "date": "2026-07-14",
-        "description": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.28.3/youtube-moe-multi.ipa",
-        "min_os_version": "16.0",
-        "sha256": "1fd6467bf1ec6e653a530e26ab36fe07e821507e7283db02a42de17798067910",
-        "size": 206114219,
-        "version": "21.28.3"
-      },
-      {
         "date": "2026-07-16",
         "description": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.24.3/youtube-moe-multi.ipa",
@@ -887,6 +878,15 @@
         "sha256": "cb77755b0ade73acd51dc54434bfd9686db6714136c05803788b361a2cdc6ed7",
         "size": 204092648,
         "version": "21.24.3"
+      },
+      {
+        "date": "2026-07-17",
+        "description": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.28.3/youtube-moe-multi.ipa",
+        "min_os_version": "16.0",
+        "sha256": "bc718a79268424117069a60d4922a847562b7fba46fba3cf8a770183db05650b",
+        "size": 218251422,
+        "version": "21.28.3"
       }
     ]
   },
@@ -920,8 +920,8 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1784208484,
-    "description": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
+    "data_modified": 1784320088,
+    "description": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
       {
@@ -943,12 +943,12 @@
         "version": "21.28.3"
       },
       {
-        "date": "2026-07-16",
-        "description": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
+        "date": "2026-07-17",
+        "description": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with mods for iOS.",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.24.3/youtube-moe-ytk.ipa",
         "min_os_version": "16.0",
-        "sha256": "a8682e36bcff499d521ae33d9e3b5ffec0bcc2b2a26a5406b88f5f1c0c12d768",
-        "size": 157911630,
+        "sha256": "854a4af50b16e4633f27a189a0cd86b0fd15c630e0147538d295e0a93aff9758",
+        "size": 157922784,
         "version": "21.24.3"
       }
     ]
@@ -1001,7 +1001,7 @@
   "youtube-ytplus-temp-free": {
     "app_id": "app_1757008016_9593",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1784003426,
+    "data_modified": 1784320088,
     "description": "Youtube 21.28.3 Moe YTPlus 5.2.1 Temp Free for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
     "versions": [
@@ -1015,11 +1015,11 @@
         "version": "21.26.4"
       },
       {
-        "date": "2026-07-14",
+        "date": "2026-07-17",
         "description": "Youtube 21.28.3 Moe YTPlus 5.2.1 Temp Free for iOS.",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.28.3/youtube-ytplus-temp-free.ipa",
         "min_os_version": "16.0",
-        "sha256": "35b0772f1cca3162545c888e554f40f1d3e31244228f2c7dfcf8c79f04b8c779",
+        "sha256": "ba390d8f5eb9828f230973dbf6f05c9ec8edf353320d59bc4b6adb35d2392ce1",
         "size": 156734604,
         "version": "21.28.3"
       }

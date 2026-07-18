@@ -178,20 +178,20 @@
           "version": "21.26.4"
         },
         {
-          "date": "2026-07-14",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.28.3/youtube-moe-multi.ipa",
-          "localizedDescription": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
-          "minOSVersion": "16.0",
-          "size": 206114219,
-          "version": "21.28.3"
-        },
-        {
           "date": "2026-07-16",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.24.3/youtube-moe-multi.ipa",
           "localizedDescription": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
           "minOSVersion": "16.0",
           "size": 204092648,
           "version": "21.24.3"
+        },
+        {
+          "date": "2026-07-17",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-multi-21.28.3/youtube-moe-multi.ipa",
+          "localizedDescription": "Included tweaks:\n- YTKillerPlus\n- DLTube\n- TubeLRD\n- YTLite\n- YTReborn\n- YouTubeX\n- YTSy\n- DontEatMyContent\n- YouTubeDislikesReturn\n- and more",
+          "minOSVersion": "16.0",
+          "size": 218251422,
+          "version": "21.28.3"
         }
       ]
     },
@@ -203,7 +203,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
-      "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
+      "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with mods for iOS.",
       "name": "YouTube (Moe YTK)",
       "screenshots": [],
       "subtitle": "YTKillerPlus tweak build",
@@ -225,11 +225,11 @@
           "version": "21.28.3"
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-17",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.24.3/youtube-moe-ytk.ipa",
-          "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7 Stable with mods for iOS.",
+          "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with mods for iOS.",
           "minOSVersion": "16.0",
-          "size": 157911630,
+          "size": 157922784,
           "version": "21.24.3"
         }
       ]
@@ -418,7 +418,7 @@
           "version": "21.26.4"
         },
         {
-          "date": "2026-07-14",
+          "date": "2026-07-17",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.28.3/youtube-ytplus-temp-free.ipa",
           "localizedDescription": "Youtube 21.28.3 Moe YTPlus 5.2.1 Temp Free for iOS.",
           "minOSVersion": "16.0",
@@ -488,11 +488,11 @@
           "version": "437.2.0"
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-17",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
           "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
           "minOSVersion": "16.3",
-          "size": 395424364,
+          "size": 395403719,
           "version": "438.0.0"
         }
       ]
@@ -917,11 +917,11 @@
           "version": "437.2.0"
         },
         {
-          "date": "2026-07-14",
+          "date": "2026-07-17",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-438.0.0/instagram-rocket-cracked.ipa",
           "localizedDescription": "Instagram 438.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
           "minOSVersion": "16.3",
-          "size": 296811864,
+          "size": 296793471,
           "version": "438.0.0"
         }
       ]
