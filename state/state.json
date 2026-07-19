@@ -281,7 +281,7 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1784320088,
+    "data_modified": 1784435112,
     "description": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 4 fingers",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
@@ -304,12 +304,12 @@
         "version": "437.2.0"
       },
       {
-        "date": "2026-07-17",
+        "date": "2026-07-19",
         "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
         "min_os_version": "16.3",
-        "sha256": "8b5af04f292e45e206d94053ebe5dfd8617efbbbf8dc8908d7f7e30d5020a0c4",
-        "size": 395403719,
+        "sha256": "09e5b9f722740c42bba6b6621be4c1ec27b63673dc0c9e34f64da1bc1f7c80bc",
+        "size": 395947011,
         "version": "438.0.0"
       }
     ]
@@ -389,8 +389,8 @@
   "instagram-regram": {
     "app_id": "app_1770262907_3468",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1784003426,
-    "description": "Instagram 438.0.0 Regram 5.1 OLED 1.4 Moe for iOS.",
+    "data_modified": 1784435112,
+    "description": "Instagram 438.0.0 Regram 5.2 OLED 1.4 Moe for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-regram.png",
     "versions": [
       {
@@ -412,12 +412,12 @@
         "version": "437.2.0"
       },
       {
-        "date": "2026-07-14",
-        "description": "Instagram 438.0.0 Regram 5.1 OLED 1.4 Moe for iOS.",
+        "date": "2026-07-19",
+        "description": "Instagram 438.0.0 Regram 5.2 OLED 1.4 Moe for iOS.",
         "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-438.0.0/instagram-regram.ipa",
         "min_os_version": "16.3",
-        "sha256": "4e922e245c40337b4e10c2fcd78ec751f1ade1e73e2393f9be7fe35533364596",
-        "size": 317396584,
+        "sha256": "c5385dde36bef12c85800b42cee36eb079c2dbc9e87e0d414a5a7fcef3975360",
+        "size": 323115978,
         "version": "438.0.0"
       }
     ]
