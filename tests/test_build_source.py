@@ -51,6 +51,19 @@ def test_compose_version_returns_base_when_name_empty():
     assert compose_version("6.5", None) == "6.5"
 
 
+def test_compose_version_ignores_trailing_zero_base_reformat():
+    # plist base "436.0.0" written as "436.0" in the site name is the SAME
+    # version, not a tweak version — must not become "436.0.0 (436.0)".
+    assert compose_version("436.0.0", "Instagram 436.0 SY tweak") == "436.0.0"
+
+
+def test_compose_version_ignores_leading_zero_base_reformat():
+    assert (
+        compose_version("21.08.3", "Youtube 21.8.3 Moe Multi 10.16")
+        == "21.08.3 (10.16)"
+    )
+
+
 def test_build_source_composes_version_and_omits_internal_fields():
     state = {
         "youtube-moe-multi": {

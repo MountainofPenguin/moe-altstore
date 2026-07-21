@@ -19,6 +19,22 @@ SOURCE_WEBSITE = "https://github.com/MountainofPenguin/moe-altstore"
 _VERSION_TOKEN_RE = re.compile(r"\d+(?:\.\d+)+")
 
 
+def _normalize_version(version: str) -> tuple[int, ...]:
+    """Canonicalize a dotted version for equality comparison, ignoring
+    formatting differences like leading zeros ("21.08.3" == "21.8.3") and
+    trailing zero segments ("436.0.0" == "436.0"). Returns () for a
+    non-numeric version, which callers treat as 'not comparable'."""
+    parts = []
+    for segment in version.split("."):
+        try:
+            parts.append(int(segment))
+        except ValueError:
+            return ()
+    while len(parts) > 1 and parts[-1] == 0:
+        parts.pop()
+    return tuple(parts)
+
+
 def compose_version(base_version: str, display_name: str | None) -> str:
     """Combine the base app version with the tweak/build version from the site name.
 
@@ -34,10 +50,13 @@ def compose_version(base_version: str, display_name: str | None) -> str:
     differs from the base version. If none is found (e.g. "Webssh 32.1 Pro"), the
     base version is returned unchanged.
     """
-    tokens = _VERSION_TOKEN_RE.findall(display_name or "")
-    for token in reversed(tokens):
-        if token != base_version:
-            return f"{base_version} ({token})"
+    base_norm = _normalize_version(base_version)
+    for token in reversed(_VERSION_TOKEN_RE.findall(display_name or "")):
+        if token == base_version:
+            continue
+        if base_norm and _normalize_version(token) == base_norm:
+            continue
+        return f"{base_version} ({token})"
     return base_version
 
 
