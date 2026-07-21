@@ -78,6 +78,8 @@ def process_single_app(app_config: dict, card, tmp_dir: Path) -> dict:
 
     version_entry = {
         "version": plist_version,
+        "display_name": card.name,
+        "data_modified": card.data_modified,
         "date": datetime.fromtimestamp(card.data_modified, tz=timezone.utc).strftime("%Y-%m-%d"),
         "description": card.changelog or card.description,
         "download_url": download_url,
@@ -119,7 +121,11 @@ def run() -> None:
 
             existing_versions = state.get(slug, {}).get("versions", [])
             new_version = result["version_entry"]
-            versions = [v for v in existing_versions if v["version"] != new_version["version"]]
+            versions = [
+                v
+                for v in existing_versions
+                if (v["version"], v.get("display_name")) != (new_version["version"], new_version.get("display_name"))
+            ]
             versions.append(new_version)
             versions = versions[-5:]  # keep the last 5 versions of history
 
