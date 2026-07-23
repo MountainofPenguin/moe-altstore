@@ -855,8 +855,8 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1784606462,
-    "description": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with Mods for iOS.",
+    "data_modified": 1784735955,
+    "description": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
       {
@@ -880,6 +880,17 @@
         "sha256": "e6e975a54d7ff272784b97bf2f329509c2616a1796adaa00085247332262abba",
         "size": 146099063,
         "version": "21.24.3"
+      },
+      {
+        "data_modified": 1784735955,
+        "date": "2026-07-22",
+        "description": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.28.3/youtube-moe-ytk.ipa",
+        "min_os_version": "16.0",
+        "sha256": "ce0e80fe2f36e7eae0625723befde3f17869b425b182545d84bba4436733d90b",
+        "size": 147670162,
+        "version": "21.28.3"
       }
     ]
   },

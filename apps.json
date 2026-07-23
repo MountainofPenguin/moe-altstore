@@ -163,11 +163,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
-      "localizedDescription": "YouTube 21.24.3 YTKillerPlus 5.9.7.2 Stable with Mods for iOS.",
+      "localizedDescription": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods for iOS.",
       "name": "YouTube (Moe YTK)",
       "screenshots": [],
       "subtitle": "YTKillerPlus tweak build",
       "versions": [
+        {
+          "date": "2026-07-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.28.3/youtube-moe-ytk.ipa",
+          "localizedDescription": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods for iOS.",
+          "minOSVersion": "16.0",
+          "size": 147670162,
+          "version": "21.28.3 (5.9.9)"
+        },
         {
           "date": "2026-07-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.24.3/youtube-moe-ytk.ipa",
