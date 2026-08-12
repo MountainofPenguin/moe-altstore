@@ -391,21 +391,10 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1786378136,
+    "data_modified": 1786468182,
     "description": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 4 fingers",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
-      {
-        "data_modified": 1784435112,
-        "date": "2026-07-19",
-        "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-        "display_name": "Instagram 438.0.0 Moe Multi 7.31",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
-        "min_os_version": "16.3",
-        "sha256": "09e5b9f722740c42bba6b6621be4c1ec27b63673dc0c9e34f64da1bc1f7c80bc",
-        "size": 395947011,
-        "version": "438.0.0"
-      },
       {
         "data_modified": 1784606462,
         "date": "2026-07-21",
@@ -448,6 +437,17 @@
         "min_os_version": "16.3",
         "sha256": "c95118255794cd8fd60d05f33a1158ef7e4845a01a8227c1d8f6f3fc87bfd708",
         "size": 396118969,
+        "version": "442.0.0"
+      },
+      {
+        "data_modified": 1786468182,
+        "date": "2026-08-11",
+        "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
+        "display_name": "Instagram 442.0.0 Moe Multi 7.34",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-442.0.0/instagram-moe-multi.ipa",
+        "min_os_version": "16.3",
+        "sha256": "c6884e4be2d53810c30ce80954a056b386ad73d8be244212e98b263b41a5dc63",
+        "size": 396150302,
         "version": "442.0.0"
       }
     ]
@@ -561,21 +561,10 @@
   "instagram-regram": {
     "app_id": "app_1770262907_3468",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1786378136,
-    "description": "Instagram 442.0.0 Regram 5.2.1 OLED 1.4 Moe for iOS.",
+    "data_modified": 1786468182,
+    "description": "Instagram 439.0.0 Regram 5.2.1 OLED 1.5 Moe for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-regram.png",
     "versions": [
-      {
-        "data_modified": 1784435112,
-        "date": "2026-07-19",
-        "description": "Instagram 438.0.0 Regram 5.2 OLED 1.4 Moe for iOS.",
-        "display_name": "Instagram 438.0.0 Regram 5.2 OLED 1.4 Moe",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-438.0.0/instagram-regram.ipa",
-        "min_os_version": "16.3",
-        "sha256": "c5385dde36bef12c85800b42cee36eb079c2dbc9e87e0d414a5a7fcef3975360",
-        "size": 323115978,
-        "version": "438.0.0"
-      },
       {
         "data_modified": 1784606462,
         "date": "2026-07-21",
@@ -619,6 +608,17 @@
         "sha256": "cf20e238833924938ef464d1a0338353f3e65b6fc7a274a1e2661bafedb97549",
         "size": 323711087,
         "version": "442.0.0"
+      },
+      {
+        "data_modified": 1786468182,
+        "date": "2026-08-11",
+        "description": "Instagram 439.0.0 Regram 5.2.1 OLED 1.5 Moe for iOS.",
+        "display_name": "Instagram 439.0.0 Regram 5.2.1 OLED 1.5 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-439.0.0/instagram-regram.ipa",
+        "min_os_version": "16.3",
+        "sha256": "0f7611ec556b0e70a18a2b76b0a8111bf748650f754400569a3a2291c2a6e39b",
+        "size": 319704696,
+        "version": "439.0.0"
       }
     ]
   },

@@ -552,6 +552,14 @@
       "subtitle": "Multi-tweak loader",
       "versions": [
         {
+          "date": "2026-08-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-442.0.0/instagram-moe-multi.ipa",
+          "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
+          "minOSVersion": "16.3",
+          "size": 396150302,
+          "version": "442.0.0 (7.34)"
+        },
+        {
           "date": "2026-08-10",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-442.0.0/instagram-moe-multi.ipa",
           "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
@@ -582,14 +590,6 @@
           "minOSVersion": "16.3",
           "size": 398007129,
           "version": "439.0.0 (7.31)"
-        },
-        {
-          "date": "2026-07-19",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-438.0.0/instagram-moe-multi.ipa",
-          "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-          "minOSVersion": "16.3",
-          "size": 395947011,
-          "version": "438.0.0 (7.31)"
         }
       ]
     },
@@ -1024,11 +1024,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-regram.png",
-      "localizedDescription": "Instagram 442.0.0 Regram 5.2.1 OLED 1.4 Moe for iOS.",
+      "localizedDescription": "Instagram 439.0.0 Regram 5.2.1 OLED 1.5 Moe for iOS.",
       "name": "Instagram (Regram)",
       "screenshots": [],
       "subtitle": "Regram OLED tweak build",
       "versions": [
+        {
+          "date": "2026-08-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-439.0.0/instagram-regram.ipa",
+          "localizedDescription": "Instagram 439.0.0 Regram 5.2.1 OLED 1.5 Moe for iOS.",
+          "minOSVersion": "16.3",
+          "size": 319704696,
+          "version": "439.0.0 (1.5)"
+        },
         {
           "date": "2026-08-10",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-442.0.0/instagram-regram.ipa",
@@ -1060,14 +1068,6 @@
           "minOSVersion": "16.3",
           "size": 325175519,
           "version": "439.0.0 (1.4)"
-        },
-        {
-          "date": "2026-07-19",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-438.0.0/instagram-regram.ipa",
-          "localizedDescription": "Instagram 438.0.0 Regram 5.2 OLED 1.4 Moe for iOS.",
-          "minOSVersion": "16.3",
-          "size": 323115978,
-          "version": "438.0.0 (1.4)"
         }
       ]
     },
