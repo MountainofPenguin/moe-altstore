@@ -837,21 +837,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1786418895,
+    "data_modified": 1786646023,
     "description": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if h...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1784173597,
-        "date": "2026-07-16",
-        "description": "for V2.2 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
-        "display_name": "Reddit 2026.28.1 Moes Reddit 2.2 With LiquidGlass",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.28.1/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "cd0f526eb09fc50b9c66c397ec919d50635e06f0144741e1ead66130d86553d7",
-        "size": 144021521,
-        "version": "2026.28.1"
-      },
       {
         "data_modified": 1784606462,
         "date": "2026-07-21",
@@ -895,6 +884,17 @@
         "sha256": "7e51009d8cf370a85def783883a16c869eee9920baba7aec14dc111eddfa4651",
         "size": 141954970,
         "version": "2026.32.0"
+      },
+      {
+        "data_modified": 1786646023,
+        "date": "2026-08-13",
+        "description": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
+        "display_name": "Reddit 2026.32.1 Moes Reddit 2.4 With LiquidGlass",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.32.1/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "21bfd6a6f8f9becccb299a8955d3436cdbfd12cabdc60d6013bcf23887160aa7",
+        "size": 141936282,
+        "version": "2026.32.1"
       }
     ]
   },

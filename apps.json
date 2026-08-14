@@ -69,6 +69,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-08-13",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.32.1/moereddit.ipa",
+          "localizedDescription": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
+          "minOSVersion": "16.0",
+          "size": 141936282,
+          "version": "2026.32.1 (2.4)"
+        },
+        {
           "date": "2026-08-11",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.32.0/moereddit.ipa",
           "localizedDescription": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
@@ -99,14 +107,6 @@
           "minOSVersion": "16.0",
           "size": 147222787,
           "version": "2026.29.0 (2.2)"
-        },
-        {
-          "date": "2026-07-16",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.28.1/moereddit.ipa",
-          "localizedDescription": "for V2.2 of MoeReddit i Added Proactive Swift Mangled Names (Stability Fix):\nHold down with 4 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
-          "minOSVersion": "16.0",
-          "size": 144021521,
-          "version": "2026.28.1 (2.2)"
         }
       ]
     },
