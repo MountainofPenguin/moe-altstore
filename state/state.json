@@ -1381,8 +1381,8 @@
   "youtube-music": {
     "app_id": "app_1770927442_3128",
     "bundle_identifier": "com.google.ios.youtubemusic",
-    "data_modified": 1785792377,
-    "description": "Youtube Music 9.31 Ultimate Enhanced 2.4.1 for iOS.",
+    "data_modified": 1786828153,
+    "description": "Youtube Music 9.32.4 Ultimate Enhanced 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
     "versions": [
       {
@@ -1417,6 +1417,17 @@
         "sha256": "fffb6a7c42ce7cc6ec1063ba5b88746b10928967a9a5425671486d0ce2e67bdb",
         "size": 105565978,
         "version": "9.31.4"
+      },
+      {
+        "data_modified": 1786828153,
+        "date": "2026-08-15",
+        "description": "Youtube Music 9.32.4 Ultimate Enhanced 2.4.1 for iOS.",
+        "display_name": "Youtube Music 9.32.4 Ultimate Enhanced 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.32.4/youtube-music.ipa",
+        "min_os_version": "16.0",
+        "sha256": "c26a58a1e7ac11ee54b2be55684bbe14db076b3244c07e4978118bc453a10eb6",
+        "size": 106472530,
+        "version": "9.32.4"
       }
     ]
   },
