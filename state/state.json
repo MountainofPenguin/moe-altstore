@@ -1093,21 +1093,10 @@
   "twitch-twitchcontrol": {
     "app_id": "app_1776873777_5494",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1787084499,
+    "data_modified": 1787163721,
     "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods set...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitch-twitchcontrol.png",
     "versions": [
-      {
-        "data_modified": 1784003426,
-        "date": "2026-07-14",
-        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-        "display_name": "Twitch 30.3 Moe TwitchControl 0.0.5 read description",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-30.3/twitch-twitchcontrol.ipa",
-        "min_os_version": "16.4",
-        "sha256": "bc4ddeb8cfa02271bd299f04b86206d0593f23d8304e249d83f6e3cb812c709b",
-        "size": 150147536,
-        "version": "30.3"
-      },
       {
         "data_modified": 1784606462,
         "date": "2026-07-21",
@@ -1151,27 +1140,27 @@
         "sha256": "ed8d01ed6e440f160bf5bffa75b8f7a5a044507df9dc60655f449244958dc6fc",
         "size": 155346310,
         "version": "30.8"
+      },
+      {
+        "data_modified": 1787163721,
+        "date": "2026-08-19",
+        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+        "display_name": "Twitch 30.8.2 Moe TwitchControl 0.0.6 read description",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-30.8.2/twitch-twitchcontrol.ipa",
+        "min_os_version": "16.4",
+        "sha256": "503cef7f604299d4f7d20ae3d7927329ff2bcfa529684e6b509b183bb45c91dd",
+        "size": 155288271,
+        "version": "30.8.2"
       }
     ]
   },
   "twitchv-tweach": {
     "app_id": "app_1776873611_4164",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1787084499,
-    "description": "Twitch 30.8 Moe Tweach 2.4.1 for iOS.",
+    "data_modified": 1787163721,
+    "description": "Twitch 30.8.2 Moe Tweach 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
     "versions": [
-      {
-        "data_modified": 1784003426,
-        "date": "2026-07-14",
-        "description": "Twitch 30.3 Moe Tweach 2.3.3 for iOS.",
-        "display_name": "Twitch 30.3 Moe Tweach 2.3.3",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-30.3/twitchv-tweach.ipa",
-        "min_os_version": "16.4",
-        "sha256": "3e719e9bcddbf14bdc3d9154035d0fecbf2339f76362d2a49c8d0b4b213e21d6",
-        "size": 149834321,
-        "version": "30.3"
-      },
       {
         "data_modified": 1784606462,
         "date": "2026-07-21",
@@ -1215,6 +1204,17 @@
         "sha256": "4825707c4ce5db363ca26748cf05df3cfb0c0d48b97a0f3e6460eab804eb4d3d",
         "size": 166316175,
         "version": "30.8"
+      },
+      {
+        "data_modified": 1787163721,
+        "date": "2026-08-19",
+        "description": "Twitch 30.8.2 Moe Tweach 2.4.1 for iOS.",
+        "display_name": "Twitch 30.8.2 Moe Tweach 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-30.8.2/twitchv-tweach.ipa",
+        "min_os_version": "16.4",
+        "sha256": "a4e48e9eea3ef580ec21db24ed192f89d782ff42c82c22befc446a74a5bb765e",
+        "size": 166258137,
+        "version": "30.8.2"
       }
     ]
   },
@@ -1334,8 +1334,8 @@
   "youtube-lrd-cracked": {
     "app_id": "app_1767418254_3524",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1786296214,
-    "description": "Youtube 21.32.4 Moe LRD 1.13 Cracked for iOS.",
+    "data_modified": 1787173225,
+    "description": "Youtube 21.33.5 Moe LRD 1.13 Cracked for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-lrd-cracked.png",
     "versions": [
       {
@@ -1381,6 +1381,17 @@
         "sha256": "78093e91af84610b90ce952e214a742bf38ce3a17fda2abd43a6e0cbc7458649",
         "size": 158583842,
         "version": "21.32.4"
+      },
+      {
+        "data_modified": 1787173225,
+        "date": "2026-08-19",
+        "description": "Youtube 21.33.5 Moe LRD 1.13 Cracked for iOS.",
+        "display_name": "Youtube 21.33.5 Moe LRD 1.13 Cracked",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.33.5/youtube-lrd-cracked.ipa",
+        "min_os_version": "16.0",
+        "sha256": "6b46de44558a89a30a05cb180103fb680ae20a03dbb27dda140dbac07e52ef28",
+        "size": 153945836,
+        "version": "21.33.5"
       }
     ]
   },
@@ -1429,8 +1440,8 @@
   "youtube-moe-sy": {
     "app_id": "app_1759517364_7181",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1786296214,
-    "description": "Youtube 21.32.4 Moe SY 2.0 Moe for iOS.",
+    "data_modified": 1787173225,
+    "description": "Youtube 21.33.5 Moe SY 2.0 Moe for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-sy.png",
     "versions": [
       {
@@ -1476,27 +1487,27 @@
         "sha256": "bc48f6bf5c7d2814f929d26b4598f1cfbd9f955417fcfcc2f68c212f4ce88f93",
         "size": 157987557,
         "version": "21.32.4"
+      },
+      {
+        "data_modified": 1787173225,
+        "date": "2026-08-19",
+        "description": "Youtube 21.33.5 Moe SY 2.0 Moe for iOS.",
+        "display_name": "Youtube 21.33.5 Moe SY 2.0 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.33.5/youtube-moe-sy.ipa",
+        "min_os_version": "16.0",
+        "sha256": "68d75d7fc840f84b9c84a1d1ed25bb3bbd292486b2d05abfe59289e45d75256f",
+        "size": 153349538,
+        "version": "21.33.5"
       }
     ]
   },
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1787084499,
-    "description": "YouTube 21.32.4 YTKillerPlus 6.2 Stable with Mods for iOS.",
+    "data_modified": 1787173225,
+    "description": "YouTube 21.33.5 YTKillerPlus 6.2 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1784735955,
-        "date": "2026-07-22",
-        "description": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.28.3 YTKillerPlus 5.9.9 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.28.3/youtube-moe-ytk.ipa",
-        "min_os_version": "16.0",
-        "sha256": "ce0e80fe2f36e7eae0625723befde3f17869b425b182545d84bba4436733d90b",
-        "size": 147670162,
-        "version": "21.28.3"
-      },
       {
         "data_modified": 1785792377,
         "date": "2026-08-03",
@@ -1540,6 +1551,17 @@
         "sha256": "e808ccd3d324fbd6de3e859d6a4e5e96e30be8f90bd9994fb11c04797c6011f5",
         "size": 151843893,
         "version": "21.32.4"
+      },
+      {
+        "data_modified": 1787173225,
+        "date": "2026-08-19",
+        "description": "YouTube 21.33.5 YTKillerPlus 6.2 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.33.5 YTKillerPlus 6.2 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.33.5/youtube-moe-ytk.ipa",
+        "min_os_version": "16.0",
+        "sha256": "21d38a1bdd8918be62572d0b3a2ea97d2f75f6ca62c18b9a6d6dc60fe052d4ba",
+        "size": 147205889,
+        "version": "21.33.5"
       }
     ]
   },
@@ -1630,8 +1652,8 @@
   "youtube-ytplus-temp-free": {
     "app_id": "app_1757008016_9593",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1786296214,
-    "description": "Youtube 21.32.4 Moe YTPlus 5.2.1 Free for iOS.",
+    "data_modified": 1787173225,
+    "description": "Youtube 21.33.5 Moe YTPlus 5.2.1 Free for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
     "versions": [
       {
@@ -1677,6 +1699,17 @@
         "sha256": "57f07297329fd950b3f20987898a5b82428e0be6d8d612f46567c1dbb8d2cec6",
         "size": 164498527,
         "version": "21.32.4"
+      },
+      {
+        "data_modified": 1787173225,
+        "date": "2026-08-19",
+        "description": "Youtube 21.33.5 Moe YTPlus 5.2.1 Free for iOS.",
+        "display_name": "Youtube 21.33.5 Moe YTPlus 5.2.1 Free",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.33.5/youtube-ytplus-temp-free.ipa",
+        "min_os_version": "16.0",
+        "sha256": "8bb6a5ad8736fb3b404e683d4c4773d7270a1667f77b360dc46c150749227b29",
+        "size": 159860526,
+        "version": "21.33.5"
       }
     ]
   }
