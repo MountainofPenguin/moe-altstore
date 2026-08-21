@@ -539,11 +539,19 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
-      "localizedDescription": "Youtube Music 9.33.3 Ultimate Enhanced 2.4.1 for iOS.",
+      "localizedDescription": "Youtube Music 9.33.6 Ultimate Enhanced 2.4.1 for iOS.",
       "name": "YouTube Music",
       "screenshots": [],
       "subtitle": "Ultimate Enhanced tweak build",
       "versions": [
+        {
+          "date": "2026-08-21",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.33.6/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.33.6 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "16.0",
+          "size": 103482151,
+          "version": "9.33.6 (2.4.1)"
+        },
         {
           "date": "2026-08-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.33.3/youtube-music.ipa",
@@ -575,14 +583,6 @@
           "minOSVersion": "16.0",
           "size": 104062265,
           "version": "9.29.3 (2.4.1)"
-        },
-        {
-          "date": "2026-07-15",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.28.4/youtube-music.ipa",
-          "localizedDescription": "Youtube Music 9.28 Ultimate Enhanced 2.4.1 for iOS.",
-          "minOSVersion": "16.0",
-          "size": 101576396,
-          "version": "9.28.4 (2.4.1)"
         }
       ]
     },
@@ -594,11 +594,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
-      "localizedDescription": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 4 fingers",
+      "localizedDescription": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 3 fingers anywhere in the app! Fresh i...",
       "name": "Instagram (Moe Multi)",
       "screenshots": [],
       "subtitle": "Multi-tweak loader",
       "versions": [
+        {
+          "date": "2026-08-20",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-443.0.0/instagram-moe-multi.ipa",
+          "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
+          "minOSVersion": "16.3",
+          "size": 375730166,
+          "version": "443.0.0 (8.0)"
+        },
         {
           "date": "2026-08-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-443.0.0/instagram-moe-multi.ipa",
@@ -630,14 +638,6 @@
           "minOSVersion": "16.3",
           "size": 399438056,
           "version": "441.0.0 (7.33)"
-        },
-        {
-          "date": "2026-07-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-439.0.0/instagram-moe-multi.ipa",
-          "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-          "minOSVersion": "16.3",
-          "size": 398011101,
-          "version": "439.0.0 (7.32)"
         }
       ]
     },
@@ -1089,11 +1089,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-nyx-b4.png",
-      "localizedDescription": "instagram 443.0.0 NYX 1.7 B4 for iOS.",
+      "localizedDescription": "instagram 443.0.0 NYX 1.7.2 Beta for iOS.",
       "name": "Instagram (NYX B4)",
       "screenshots": [],
       "subtitle": "NYX tweak build",
       "versions": [
+        {
+          "date": "2026-08-20",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-443.0.0/instagram-nyx-b4.ipa",
+          "localizedDescription": "instagram 443.0.0 NYX 1.7.2 Beta for iOS.",
+          "minOSVersion": "16.3",
+          "size": 316045016,
+          "version": "443.0.0 (1.7.2)"
+        },
         {
           "date": "2026-08-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-443.0.0/instagram-nyx-b4.ipa",
@@ -1125,14 +1133,6 @@
           "minOSVersion": "16.3",
           "size": 338429459,
           "version": "439.0.0 (1.7)"
-        },
-        {
-          "date": "2026-07-14",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-438.0.0/instagram-nyx-b4.ipa",
-          "localizedDescription": "instagram 438.0.0 NYX 1.7 B4 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 316806272,
-          "version": "438.0.0 (1.7)"
         }
       ]
     },
@@ -1144,11 +1144,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-regram.png",
-      "localizedDescription": "Instagram 443.0.0 Regram 5.2.1 OLED 1.5 Moe for iOS.",
+      "localizedDescription": "Instagram 443.0.0 Regram 6.0 OLED 1.5 Moe for iOS.",
       "name": "Instagram (Regram)",
       "screenshots": [],
       "subtitle": "Regram OLED tweak build",
       "versions": [
+        {
+          "date": "2026-08-20",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-443.0.0/instagram-regram.ipa",
+          "localizedDescription": "Instagram 443.0.0 Regram 6.0 OLED 1.5 Moe for iOS.",
+          "minOSVersion": "16.3",
+          "size": 318728791,
+          "version": "443.0.0 (1.5)"
+        },
         {
           "date": "2026-08-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-443.0.0/instagram-regram.ipa",
@@ -1180,14 +1188,6 @@
           "minOSVersion": "16.3",
           "size": 327031379,
           "version": "441.0.0 (1.4)"
-        },
-        {
-          "date": "2026-07-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-regram-439.0.0/instagram-regram.ipa",
-          "localizedDescription": "Instagram 439.0.0 Regram 5.2.1 OLED 1.4 Moe for iOS.",
-          "minOSVersion": "16.3",
-          "size": 319672547,
-          "version": "439.0.0 (1.4)"
         }
       ]
     },
