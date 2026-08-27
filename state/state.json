@@ -22,8 +22,8 @@
   "infuse-moe-plus": {
     "app_id": "app_1776873562_1009",
     "bundle_identifier": "com.firecore.infuse",
-    "data_modified": 1785792377,
-    "description": "Infuse 8.5 2.6 Moe Plus for iOS.",
+    "data_modified": 1787776707,
+    "description": "Infuse 8.5.2 2.6 Moe Plus for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
     "versions": [
       {
@@ -47,6 +47,17 @@
         "sha256": "24d3d0ea77a44154088719b696df07f844274d1fd0292de7326cb5c777d4282c",
         "size": 99596210,
         "version": "8.5"
+      },
+      {
+        "data_modified": 1787776707,
+        "date": "2026-08-26",
+        "description": "Infuse 8.5.2 2.6 Moe Plus for iOS.",
+        "display_name": "Infuse 8.5.2 2.6 Moe Plus",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.2/infuse-moe-plus.ipa",
+        "min_os_version": "18.0",
+        "sha256": "992284462e40ccdb3188f3161126a595c9e21b9458433db3f05a8537d248eb4b",
+        "size": 99710955,
+        "version": "8.5.2"
       }
     ]
   },
@@ -329,21 +340,10 @@
   "instagram-ink-plus": {
     "app_id": "app_1757008016_8735",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1787597935,
-    "description": "Instagram 444.0.0 INK Plus 5.1 for iOS.",
+    "data_modified": 1787766891,
+    "description": "Instagram 444.0.0 INK Plus 5.2 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ink-plus.png",
     "versions": [
-      {
-        "data_modified": 1785792377,
-        "date": "2026-08-03",
-        "description": "Instagram 441.0.0 INK Plus 4.8 for iOS.",
-        "display_name": "Instagram 441.0.0 INK Plus 4.8",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-441.0.0/instagram-ink-plus.ipa",
-        "min_os_version": "16.3",
-        "sha256": "d48876962d5664a2eb7b8e8c5f819806f787f107f32b937241019df035a1c6fe",
-        "size": 309611037,
-        "version": "441.0.0"
-      },
       {
         "data_modified": 1786378136,
         "date": "2026-08-10",
@@ -386,6 +386,17 @@
         "min_os_version": "16.3",
         "sha256": "4bca52468d09dc627358236040f44494f92b19f5f0b70dd39dd6787de9e1dd03",
         "size": 301010375,
+        "version": "444.0.0"
+      },
+      {
+        "data_modified": 1787766891,
+        "date": "2026-08-26",
+        "description": "Instagram 444.0.0 INK Plus 5.2 for iOS.",
+        "display_name": "Instagram 444.0.0 INK Plus 5.2",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-444.0.0/instagram-ink-plus.ipa",
+        "min_os_version": "16.3",
+        "sha256": "47ada52b91815c6d8f667f4827f8bb984980e7c5ed04f08539cb5aabe7cf7f4b",
+        "size": 301010399,
         "version": "444.0.0"
       }
     ]
@@ -457,21 +468,10 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1787597935,
+    "data_modified": 1787766891,
     "description": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 3 fingers anywhere in the app! Fresh i...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
-      {
-        "data_modified": 1786468182,
-        "date": "2026-08-11",
-        "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-        "display_name": "Instagram 442.0.0 Moe Multi 7.34",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-442.0.0/instagram-moe-multi.ipa",
-        "min_os_version": "16.3",
-        "sha256": "c6884e4be2d53810c30ce80954a056b386ad73d8be244212e98b263b41a5dc63",
-        "size": 396150302,
-        "version": "442.0.0"
-      },
       {
         "data_modified": 1787084499,
         "date": "2026-08-18",
@@ -514,6 +514,17 @@
         "min_os_version": "16.3",
         "sha256": "210f0957dc62e771d728026df773fbfab97c44add22c4ef5e2a04397a5e59eed",
         "size": 392187656,
+        "version": "444.0.0"
+      },
+      {
+        "data_modified": 1787766891,
+        "date": "2026-08-26",
+        "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
+        "display_name": "Instagram 444.0.0 Moe Multi 8.3",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-444.0.0/instagram-moe-multi.ipa",
+        "min_os_version": "16.3",
+        "sha256": "50a22d6e6ad3222be1556c6b6e665413831e0cf9481ec89c27773fcd12a985c1",
+        "size": 391956236,
         "version": "444.0.0"
       }
     ]
@@ -1504,21 +1515,10 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1787683855,
-    "description": "YouTube 21.34.3 YTKillerPlus 6.4 Stable with Mods for iOS.",
+    "data_modified": 1787766891,
+    "description": "YouTube 21.34.3 YTKillerPlus 6.5 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1787084499,
-        "date": "2026-08-18",
-        "description": "YouTube 21.32.4 YTKillerPlus 6.2 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.32.4 YTKillerPlus 6.2 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.32.4/youtube-moe-ytk.ipa",
-        "min_os_version": "16.0",
-        "sha256": "e808ccd3d324fbd6de3e859d6a4e5e96e30be8f90bd9994fb11c04797c6011f5",
-        "size": 151843893,
-        "version": "21.32.4"
-      },
       {
         "data_modified": 1787173225,
         "date": "2026-08-19",
@@ -1561,6 +1561,17 @@
         "min_os_version": "17.0",
         "sha256": "c6e17fec032b4371da05c9b0f17c73c0ff5475787f9b5742c96e5ed24a492daf",
         "size": 153798260,
+        "version": "21.34.3"
+      },
+      {
+        "data_modified": 1787766891,
+        "date": "2026-08-26",
+        "description": "YouTube 21.34.3 YTKillerPlus 6.5 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.34.3 YTKillerPlus 6.5 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.34.3/youtube-moe-ytk.ipa",
+        "min_os_version": "17.0",
+        "sha256": "28fcd32606dcbbbd690923cf121c8737ada231f4073734cf56bcbe91f4f0f8ab",
+        "size": 153809683,
         "version": "21.34.3"
       }
     ]
