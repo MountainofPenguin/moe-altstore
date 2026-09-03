@@ -608,6 +608,14 @@
       "subtitle": "Multi-tweak loader",
       "versions": [
         {
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-445.0.0/instagram-moe-multi.ipa",
+          "localizedDescription": "8.4 changelog= added sparkle",
+          "minOSVersion": "16.3",
+          "size": 405696715,
+          "version": "445.0.0 (8.5)"
+        },
+        {
           "date": "2026-09-01",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-445.0.0/instagram-moe-multi.ipa",
           "localizedDescription": "8.4 changelog= added sparkle",
@@ -638,14 +646,6 @@
           "minOSVersion": "16.3",
           "size": 381910640,
           "version": "443.1.0 (8.1)"
-        },
-        {
-          "date": "2026-08-20",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-443.0.0/instagram-moe-multi.ipa",
-          "localizedDescription": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-          "minOSVersion": "16.3",
-          "size": 375730166,
-          "version": "443.0.0 (8.0)"
         }
       ]
     },

@@ -468,21 +468,10 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1788294069,
+    "data_modified": 1788377909,
     "description": "dont sign with esign!!!!! and Hold down on reels button to open multi menu or use 3 fingers anywhere in the app! Fresh i...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
-      {
-        "data_modified": 1787261417,
-        "date": "2026-08-20",
-        "description": "- iNKillerPlus\n- NYX\n- NYX Beta\n- Regram\n- InstaSy\n- Rocket\n- InstaLRD\n- DLInsta\n- NYX Cracked\n- BHInsta\n- SCInsta\n- Theta\n- IGFormat\n- ACInsta\n- Ryukgram\n- Insta Infinity Accounts\n- Rocket No Alert",
-        "display_name": "Instagram 443.0.0 Moe Multi 8.0 Remade from scratch so make sure to fresh install",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-443.0.0/instagram-moe-multi.ipa",
-        "min_os_version": "16.3",
-        "sha256": "978b788579f2458b7474aa4804a48fd9ba3111037c40362d871d8ef6356b8fd1",
-        "size": 375730166,
-        "version": "443.0.0"
-      },
       {
         "data_modified": 1787343626,
         "date": "2026-08-21",
@@ -525,6 +514,17 @@
         "min_os_version": "16.3",
         "sha256": "8c24cfe11d9f7cbabcd655793686ba28d7f8c48d10696a7629847f94475b49f4",
         "size": 397570289,
+        "version": "445.0.0"
+      },
+      {
+        "data_modified": 1788377909,
+        "date": "2026-09-02",
+        "description": "8.4 changelog= added sparkle",
+        "display_name": "Instagram 445.0.0 Moe Multi 8.5",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-445.0.0/instagram-moe-multi.ipa",
+        "min_os_version": "16.3",
+        "sha256": "e62ee23130e77d95489aade731be1dc3be791fba4d249d698dd6327626e3adec",
+        "size": 405696715,
         "version": "445.0.0"
       }
     ]
