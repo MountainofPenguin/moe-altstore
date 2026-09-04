@@ -980,21 +980,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1788301639,
+    "data_modified": 1788484114,
     "description": "for V3.0 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1786418895,
-        "date": "2026-08-11",
-        "description": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
-        "display_name": "Reddit 2026.32.0 Moes Reddit 2.4 With LiquidGlass",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.32.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "7e51009d8cf370a85def783883a16c869eee9920baba7aec14dc111eddfa4651",
-        "size": 141954970,
-        "version": "2026.32.0"
-      },
       {
         "data_modified": 1786646023,
         "date": "2026-08-13",
@@ -1038,6 +1027,17 @@
         "sha256": "0c3c48a3a0be11c76ca75e17986c0babc03146788b401066e9c438cda538278c",
         "size": 135577137,
         "version": "2026.35.0"
+      },
+      {
+        "data_modified": 1788484114,
+        "date": "2026-09-04",
+        "description": "for V3.0 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.35.1 Moes Reddit 3.1 With Login Fix",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.35.1/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "7398fa3e10579226ef597e2fe37d07c3404a05e7967b3cb9402c3541a73af6b6",
+        "size": 147543735,
+        "version": "2026.35.1"
       }
     ]
   },
