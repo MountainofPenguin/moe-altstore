@@ -980,21 +980,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1788484114,
-    "description": "for V3.0 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu",
+    "data_modified": 1788981006,
+    "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1786646023,
-        "date": "2026-08-13",
-        "description": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
-        "display_name": "Reddit 2026.32.1 Moes Reddit 2.4 With LiquidGlass",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.32.1/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "21bfd6a6f8f9becccb299a8955d3436cdbfd12cabdc60d6013bcf23887160aa7",
-        "size": 141936282,
-        "version": "2026.32.1"
-      },
       {
         "data_modified": 1787084499,
         "date": "2026-08-18",
@@ -1038,6 +1027,17 @@
         "sha256": "7398fa3e10579226ef597e2fe37d07c3404a05e7967b3cb9402c3541a73af6b6",
         "size": 147543735,
         "version": "2026.35.1"
+      },
+      {
+        "data_modified": 1788981006,
+        "date": "2026-09-09",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.36.0 Moes Reddit 3.2 With Login Fix",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.36.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "f1ce790411ba3ee05fec9de32c5152a4643746e39572fc1a033dd5bda85731ac",
+        "size": 148219125,
+        "version": "2026.36.0"
       }
     ]
   },
@@ -1515,21 +1515,10 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1788893771,
-    "description": "YouTube 21.36.6 YTKillerPlus 6.5.1 Stable with Mods for iOS.",
+    "data_modified": 1788981006,
+    "description": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1787632827,
-        "date": "2026-08-25",
-        "description": "YouTube 21.33.6 YTKillerPlus 6.4 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.33.6 YTKillerPlus 6.4 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.33.6/youtube-moe-ytk.ipa",
-        "min_os_version": "16.0",
-        "sha256": "eb45c6612488fe1f32d35dc4880bfa3bd8305b8c7b9734e954f54da57e71c698",
-        "size": 147172265,
-        "version": "21.33.6"
-      },
       {
         "data_modified": 1787683855,
         "date": "2026-08-25",
@@ -1572,6 +1561,17 @@
         "min_os_version": "17.0",
         "sha256": "29d27f09176b575456e16dd33c48e23f1b6166d1035b741b510d46389d9c9bc1",
         "size": 149592439,
+        "version": "21.36.6"
+      },
+      {
+        "data_modified": 1788981006,
+        "date": "2026-09-09",
+        "description": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.36.6/youtube-moe-ytk.ipa",
+        "min_os_version": "17.0",
+        "sha256": "02fada3fc1fa1073279401c69acb784c86dcbdee3ab68fa065620c257cf7b9c3",
+        "size": 145618111,
         "version": "21.36.6"
       }
     ]
