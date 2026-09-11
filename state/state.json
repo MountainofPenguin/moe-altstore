@@ -980,21 +980,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1788981006,
+    "data_modified": 1789143152,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1787084499,
-        "date": "2026-08-18",
-        "description": "for V2.4 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu, if having issues logging in keep trying or switch between 5g and wifi and try",
-        "display_name": "Reddit 2026.33.0 Moes Reddit 2.4 With LiquidGlass",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.33.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "c7f405d360317c3055715c488f6b6d05ff9a8449c18e837528e258a8de04426e",
-        "size": 143236783,
-        "version": "2026.33.0"
-      },
       {
         "data_modified": 1787712092,
         "date": "2026-08-26",
@@ -1037,6 +1026,17 @@
         "min_os_version": "16.0",
         "sha256": "f1ce790411ba3ee05fec9de32c5152a4643746e39572fc1a033dd5bda85731ac",
         "size": 148219125,
+        "version": "2026.36.0"
+      },
+      {
+        "data_modified": 1789143152,
+        "date": "2026-09-11",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.36.0 Moes Reddit 3.3 V2 With Login Fix",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.36.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "f4bebfd9afa7d53e59758812537f9a30de680c4c26e9f146b1cbfb113fc04804",
+        "size": 148238458,
         "version": "2026.36.0"
       }
     ]
@@ -1579,21 +1579,10 @@
   "youtube-music": {
     "app_id": "app_1770927442_3128",
     "bundle_identifier": "com.google.ios.youtubemusic",
-    "data_modified": 1788291620,
-    "description": "Youtube Music 9.35.2 Ultimate Enhanced 2.4.1 for iOS.",
+    "data_modified": 1789092733,
+    "description": "Youtube Music 9.36.1 Ultimate Enhanced 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
     "versions": [
-      {
-        "data_modified": 1786828153,
-        "date": "2026-08-15",
-        "description": "Youtube Music 9.32.4 Ultimate Enhanced 2.4.1 for iOS.",
-        "display_name": "Youtube Music 9.32.4 Ultimate Enhanced 2.4.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.32.4/youtube-music.ipa",
-        "min_os_version": "16.0",
-        "sha256": "c26a58a1e7ac11ee54b2be55684bbe14db076b3244c07e4978118bc453a10eb6",
-        "size": 106472530,
-        "version": "9.32.4"
-      },
       {
         "data_modified": 1787084499,
         "date": "2026-08-18",
@@ -1637,6 +1626,17 @@
         "sha256": "0227ed442f8b27ac6efe5d410e1bf3bb5631e5a92e74c9ccb1086d4cc1b659bb",
         "size": 109407872,
         "version": "9.35.2"
+      },
+      {
+        "data_modified": 1789092733,
+        "date": "2026-09-11",
+        "description": "Youtube Music 9.36.1 Ultimate Enhanced 2.4.1 for iOS.",
+        "display_name": "Youtube Music 9.36.1 Ultimate Enhanced 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.36.1/youtube-music.ipa",
+        "min_os_version": "16.0",
+        "sha256": "39b1b54ef8fd01e60cac2231b93cff753296a6b2f60a8f19282660f4b447f7eb",
+        "size": 109965938,
+        "version": "9.36.1"
       }
     ]
   },
