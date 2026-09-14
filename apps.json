@@ -77,6 +77,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.36.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 148140449,
+          "version": "2026.36.0 (3.9)"
+        },
+        {
           "date": "2026-09-11",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.36.0/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -107,14 +115,6 @@
           "minOSVersion": "16.0",
           "size": 135577137,
           "version": "2026.35.0 (3.1)"
-        },
-        {
-          "date": "2026-08-26",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.33.0/moereddit.ipa",
-          "localizedDescription": "for V3.0 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 145192621,
-          "version": "2026.33.0 (3.0)"
         }
       ]
     },
@@ -227,11 +227,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
-      "localizedDescription": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
+      "localizedDescription": "YouTube 21.37.4 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
       "name": "YouTube (Moe YTK)",
       "screenshots": [],
       "subtitle": "YTKillerPlus tweak build",
       "versions": [
+        {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.37.4/youtube-moe-ytk.ipa",
+          "localizedDescription": "YouTube 21.37.4 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
+          "minOSVersion": "17.0",
+          "size": 151672665,
+          "version": "21.37.4 (6.5.2)"
+        },
         {
           "date": "2026-09-09",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.36.6/youtube-moe-ytk.ipa",
@@ -263,14 +271,6 @@
           "minOSVersion": "17.0",
           "size": 153809683,
           "version": "21.34.3 (6.5)"
-        },
-        {
-          "date": "2026-08-25",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.34.3/youtube-moe-ytk.ipa",
-          "localizedDescription": "YouTube 21.34.3 YTKillerPlus 6.4 Stable with Mods for iOS.",
-          "minOSVersion": "17.0",
-          "size": 153798260,
-          "version": "21.34.3 (6.4)"
         }
       ]
     },
@@ -382,11 +382,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-lrd-cracked.png",
-      "localizedDescription": "Youtube 21.36.6 Moe LRD 1.13 Cracked for iOS.",
+      "localizedDescription": "Youtube 21.37.4 Moe LRD 1.13 Cracked for iOS.",
       "name": "YouTube (Moe LRD, Cracked)",
       "screenshots": [],
       "subtitle": "TubeLRD tweak build, cracked",
       "versions": [
+        {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.37.4/youtube-lrd-cracked.ipa",
+          "localizedDescription": "Youtube 21.37.4 Moe LRD 1.13 Cracked for iOS.",
+          "minOSVersion": "17.0",
+          "size": 162411668,
+          "version": "21.37.4 (1.13)"
+        },
         {
           "date": "2026-09-08",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.36.6/youtube-lrd-cracked.ipa",
@@ -418,14 +426,6 @@
           "minOSVersion": "16.0",
           "size": 153946254,
           "version": "21.33.6 (1.13)"
-        },
-        {
-          "date": "2026-08-19",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.33.5/youtube-lrd-cracked.ipa",
-          "localizedDescription": "Youtube 21.33.5 Moe LRD 1.13 Cracked for iOS.",
-          "minOSVersion": "16.0",
-          "size": 153945836,
-          "version": "21.33.5 (1.13)"
         }
       ]
     },
@@ -437,11 +437,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-sy.png",
-      "localizedDescription": "Youtube 21.36.6 Moe SY 2.0 Moe for iOS.",
+      "localizedDescription": "Youtube 21.37.4 Moe SY 2.0 Moe for iOS.",
       "name": "YouTube (Moe SY)",
       "screenshots": [],
       "subtitle": "SY tweak build",
       "versions": [
+        {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.37.4/youtube-moe-sy.ipa",
+          "localizedDescription": "Youtube 21.37.4 Moe SY 2.0 Moe for iOS.",
+          "minOSVersion": "17.0",
+          "size": 161815372,
+          "version": "21.37.4 (2.0)"
+        },
         {
           "date": "2026-09-08",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.36.6/youtube-moe-sy.ipa",
@@ -473,14 +481,6 @@
           "minOSVersion": "16.0",
           "size": 153349952,
           "version": "21.33.6 (2.0)"
-        },
-        {
-          "date": "2026-08-19",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.33.5/youtube-moe-sy.ipa",
-          "localizedDescription": "Youtube 21.33.5 Moe SY 2.0 Moe for iOS.",
-          "minOSVersion": "16.0",
-          "size": 153349538,
-          "version": "21.33.5 (2.0)"
         }
       ]
     },
@@ -492,11 +492,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
-      "localizedDescription": "Youtube 21.36.6 Moe YTPlus 5.2.1 Free for iOS.",
+      "localizedDescription": "Youtube 21.37.4 Moe YTPlus 5.2.1 Free for iOS.",
       "name": "YouTube (Moe YTPlus, Temp Free)",
       "screenshots": [],
       "subtitle": "YTPlus tweak build",
       "versions": [
+        {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.37.4/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.37.4 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 168326372,
+          "version": "21.37.4 (5.2.1)"
+        },
         {
           "date": "2026-09-08",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.36.6/youtube-ytplus-temp-free.ipa",
@@ -528,14 +536,6 @@
           "minOSVersion": "16.0",
           "size": 159860928,
           "version": "21.33.6 (5.2.1)"
-        },
-        {
-          "date": "2026-08-19",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.33.5/youtube-ytplus-temp-free.ipa",
-          "localizedDescription": "Youtube 21.33.5 Moe YTPlus 5.2.1 Free for iOS.",
-          "minOSVersion": "16.0",
-          "size": 159860526,
-          "version": "21.33.5 (5.2.1)"
         }
       ]
     },
@@ -987,11 +987,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ryukgram.png",
-      "localizedDescription": "Instagram 446.0.0 Moe RyukGram 1.3.3 for iOS.",
+      "localizedDescription": "Instagram 446.0.0 Moe RyukGram 1.4.0 for iOS.",
       "name": "Instagram (Moe RyukGram)",
       "screenshots": [],
       "subtitle": "RyukGram tweak build",
       "versions": [
+        {
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-446.0.0/instagram-ryukgram.ipa",
+          "localizedDescription": "Instagram 446.0.0 Moe RyukGram 1.4.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 331051767,
+          "version": "446.0.0 (1.4.0)"
+        },
         {
           "date": "2026-09-08",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-446.0.0/instagram-ryukgram.ipa",
@@ -1023,14 +1031,6 @@
           "minOSVersion": "16.3",
           "size": 315307590,
           "version": "443.1.0 (1.3.3)"
-        },
-        {
-          "date": "2026-08-18",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-443.0.0/instagram-ryukgram.ipa",
-          "localizedDescription": "Instagram 443.0.0 Moe RyukGram 1.3.3 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 309165902,
-          "version": "443.0.0 (1.3.3)"
         }
       ]
     },
