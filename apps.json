@@ -126,11 +126,19 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
-      "localizedDescription": "Infuse 8.5.4 2.6 Moe Plus for iOS.",
+      "localizedDescription": "Infuse 8.5.5 2.6 Moe Plus for iOS.",
       "name": "Infuse (Moe Plus)",
       "screenshots": [],
       "subtitle": "Media player, Moe Plus patch",
       "versions": [
+        {
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.5/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.5 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 99751126,
+          "version": "8.5.5 (2.6)"
+        },
         {
           "date": "2026-09-15",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.4/infuse-moe-plus.ipa",
