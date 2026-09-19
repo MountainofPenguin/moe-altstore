@@ -1002,21 +1002,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1789503019,
+    "data_modified": 1789762312,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1788484114,
-        "date": "2026-09-04",
-        "description": "for V3.0 of MoeReddit adds bug fixes for the latest version of reddit\nHold down with 3 fingers to open moemod menu",
-        "display_name": "Reddit 2026.35.1 Moes Reddit 3.1 With Login Fix",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.35.1/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "7398fa3e10579226ef597e2fe37d07c3404a05e7967b3cb9402c3541a73af6b6",
-        "size": 147543735,
-        "version": "2026.35.1"
-      },
       {
         "data_modified": 1788981006,
         "date": "2026-09-09",
@@ -1059,6 +1048,17 @@
         "min_os_version": "16.0",
         "sha256": "7cce0d46cc9f9f663420884c03a1edeba6d7243a09ab5badf352bb60d8adc60f",
         "size": 147479505,
+        "version": "2026.37.0"
+      },
+      {
+        "data_modified": 1789762312,
+        "date": "2026-09-18",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.37.0 Moes Reddit 4.2 With Login Fix",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.37.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "09eec5a97b354a8cb0de96f3a21884dc3c49c89a43ecafa61793a9a2e7ca2f34",
+        "size": 147976073,
         "version": "2026.37.0"
       }
     ]
