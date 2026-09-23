@@ -77,6 +77,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.38.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 143780635,
+          "version": "2026.38.0 (4.3)"
+        },
+        {
           "date": "2026-09-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.37.0/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -107,14 +115,6 @@
           "minOSVersion": "16.0",
           "size": 148238458,
           "version": "2026.36.0 (3.3)"
-        },
-        {
-          "date": "2026-09-09",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.36.0/moereddit.ipa",
-          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 148219125,
-          "version": "2026.36.0 (3.2)"
         }
       ]
     },
@@ -563,11 +563,19 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
-      "localizedDescription": "Youtube Music 9.37.2 Ultimate Enhanced 2.4.1 for iOS.",
+      "localizedDescription": "Youtube Music 9.38.1 Ultimate Enhanced 2.4.1 for iOS.",
       "name": "YouTube Music",
       "screenshots": [],
       "subtitle": "Ultimate Enhanced tweak build",
       "versions": [
+        {
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.38.1/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.38.1 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "16.0",
+          "size": 111046081,
+          "version": "9.38.1 (2.4.1)"
+        },
         {
           "date": "2026-09-15",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.37.2/youtube-music.ipa",
@@ -599,14 +607,6 @@
           "minOSVersion": "16.0",
           "size": 107596301,
           "version": "9.34.4 (2.4.1)"
-        },
-        {
-          "date": "2026-08-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.33.6/youtube-music.ipa",
-          "localizedDescription": "Youtube Music 9.33.6 Ultimate Enhanced 2.4.1 for iOS.",
-          "minOSVersion": "16.0",
-          "size": 103482151,
-          "version": "9.33.6 (2.4.1)"
         }
       ]
     },
@@ -1463,6 +1463,14 @@
       "subtitle": "TwitchControl tweak build",
       "versions": [
         {
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.3.2/twitch-twitchcontrol.ipa",
+          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+          "minOSVersion": "16.4",
+          "size": 183771301,
+          "version": "31.3.2 (0.0.6)"
+        },
+        {
           "date": "2026-09-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.3/twitch-twitchcontrol.ipa",
           "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
@@ -1493,14 +1501,6 @@
           "minOSVersion": "16.4",
           "size": 180035564,
           "version": "31.1 (0.0.6)"
-        },
-        {
-          "date": "2026-09-06",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.0.2/twitch-twitchcontrol.ipa",
-          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-          "minOSVersion": "16.4",
-          "size": 161628824,
-          "version": "31.0.2 (0.0.6)"
         }
       ]
     },
@@ -1512,11 +1512,19 @@
       "bundleIdentifier": "tv.twitch",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
-      "localizedDescription": "Twitch 31.3 Tweach 2.4.1 for iOS.",
+      "localizedDescription": "Twitch 31.3.2 Tweach 2.4.1 for iOS.",
       "name": "Twitch (Twitchv, Moe Tweach)",
       "screenshots": [],
       "subtitle": "Tweach tweak build",
       "versions": [
+        {
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.3.2/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.3.2 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 194741174,
+          "version": "31.3.2 (2.4.1)"
+        },
         {
           "date": "2026-09-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.3/twitchv-tweach.ipa",
@@ -1548,14 +1556,6 @@
           "minOSVersion": "16.4",
           "size": 191005442,
           "version": "31.1 (2.4.1)"
-        },
-        {
-          "date": "2026-09-06",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.0.2/twitchv-tweach.ipa",
-          "localizedDescription": "Twitch 31.0.2 dan Tweach 2.4.1 for iOS.",
-          "minOSVersion": "16.4",
-          "size": 172598689,
-          "version": "31.0.2 (2.4.1)"
         }
       ]
     }
