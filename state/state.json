@@ -362,21 +362,10 @@
   "instagram-ink-plus": {
     "app_id": "app_1757008016_8735",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790019814,
-    "description": "Instagram 448.0.0 INK Plus 5.2.7 for iOS.",
+    "data_modified": 1790195171,
+    "description": "Instagram 448.0.0 INK Plus 5.2.9 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ink-plus.png",
     "versions": [
-      {
-        "data_modified": 1787766891,
-        "date": "2026-08-26",
-        "description": "Instagram 444.0.0 INK Plus 5.2 for iOS.",
-        "display_name": "Instagram 444.0.0 INK Plus 5.2",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-444.0.0/instagram-ink-plus.ipa",
-        "min_os_version": "16.3",
-        "sha256": "47ada52b91815c6d8f667f4827f8bb984980e7c5ed04f08539cb5aabe7cf7f4b",
-        "size": 301010399,
-        "version": "444.0.0"
-      },
       {
         "data_modified": 1788291620,
         "date": "2026-09-01",
@@ -419,6 +408,17 @@
         "min_os_version": "16.3",
         "sha256": "f848ed935681e32a7de0c8d760553fc9d9f68a18a66cfae0e5f97a0c69ae2830",
         "size": 303036485,
+        "version": "448.0.0"
+      },
+      {
+        "data_modified": 1790195171,
+        "date": "2026-09-23",
+        "description": "Instagram 448.0.0 INK Plus 5.2.9 for iOS.",
+        "display_name": "Instagram 448.0.0 INK Plus 5.2.9",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-448.0.0/instagram-ink-plus.ipa",
+        "min_os_version": "16.3",
+        "sha256": "b50b3609c11a9ad3540fe299d7b008d972e4d76b020af9548968ba2977a13b30",
+        "size": 303036984,
         "version": "448.0.0"
       }
     ]
@@ -1537,21 +1537,10 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1790019814,
-    "description": "YouTube 21.38.2 YTKillerPlus 6.5.6 Stable with Mods for iOS.",
+    "data_modified": 1790195171,
+    "description": "YouTube 21.38.2 YTKillerPlus 6.5.8 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "YouTube 21.35.3 YTKillerPlus 6.5.1 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.35.3 YTKillerPlus 6.5.1 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.35.3/youtube-moe-ytk.ipa",
-        "min_os_version": "17.0",
-        "sha256": "b58b22342117ef9f1acc94213c60d216a28f9b17edfcbb91493b66a33b65f1ba",
-        "size": 154347428,
-        "version": "21.35.3"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -1594,6 +1583,17 @@
         "min_os_version": "17.0",
         "sha256": "1c35d4843de4910043e77d42e58a7073b6d2e5e617885393e6b67dedb0e489d7",
         "size": 156273342,
+        "version": "21.38.2"
+      },
+      {
+        "data_modified": 1790195171,
+        "date": "2026-09-23",
+        "description": "YouTube 21.38.2 YTKillerPlus 6.5.8 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.38.2 YTKillerPlus 6.5.8 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.38.2/youtube-moe-ytk.ipa",
+        "min_os_version": "17.0",
+        "sha256": "1ad2a2d7ccd5dfcb617ad8c779336f136e6718447ee61cc6fd96789cd82ceb52",
+        "size": 150163602,
         "version": "21.38.2"
       }
     ]
