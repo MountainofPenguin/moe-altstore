@@ -32,11 +32,19 @@
       "bundleIdentifier": "com.itimeteo.webssh",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/webssh.png",
-      "localizedDescription": "Webssh 32.7 Pro for iOS.",
+      "localizedDescription": "Webssh 33.0 Pro for iOS.",
       "name": "Webssh",
       "screenshots": [],
       "subtitle": "SSH client, Pro patch",
       "versions": [
+        {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.0/webssh.ipa",
+          "localizedDescription": "Webssh 33.0 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 105780395,
+          "version": "33.0"
+        },
         {
           "date": "2026-08-18",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-32.7/webssh.ipa",
@@ -77,6 +85,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.39.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 144401884,
+          "version": "2026.39.0 (4.5.1)"
+        },
+        {
           "date": "2026-09-28",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.39.0/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -107,14 +123,6 @@
           "minOSVersion": "16.0",
           "size": 147976073,
           "version": "2026.37.0 (4.2)"
-        },
-        {
-          "date": "2026-09-15",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.37.0/moereddit.ipa",
-          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 147479505,
-          "version": "2026.37.0 (4.0)"
         }
       ]
     },
@@ -126,11 +134,19 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
-      "localizedDescription": "Infuse 8.5.5 2.6 Moe Plus for iOS.",
+      "localizedDescription": "Infuse 8.5.6 2.6 Moe Plus for iOS.",
       "name": "Infuse (Moe Plus)",
       "screenshots": [],
       "subtitle": "Media player, Moe Plus patch",
       "versions": [
+        {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.6/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.6 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 99183211,
+          "version": "8.5.6 (2.6)"
+        },
         {
           "date": "2026-09-17",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.5/infuse-moe-plus.ipa",
@@ -162,14 +178,6 @@
           "minOSVersion": "18.0",
           "size": 99596210,
           "version": "8.5 (2.6)"
-        },
-        {
-          "date": "2026-07-10",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.4.8/infuse-moe-plus.ipa",
-          "localizedDescription": "Infuse 8.4.8 2.6 Moe Plus for iOS.",
-          "minOSVersion": "18.0",
-          "size": 98027322,
-          "version": "8.4.8 (2.6)"
         }
       ]
     },
@@ -1463,6 +1471,14 @@
       "subtitle": "TwitchControl tweak build",
       "versions": [
         {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.2/twitch-twitchcontrol.ipa",
+          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+          "minOSVersion": "16.4",
+          "size": 185812509,
+          "version": "31.4.2 (0.0.6)"
+        },
+        {
           "date": "2026-09-28",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4/twitch-twitchcontrol.ipa",
           "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
@@ -1493,14 +1509,6 @@
           "minOSVersion": "16.4",
           "size": 182843627,
           "version": "31.2.4 (0.0.6)"
-        },
-        {
-          "date": "2026-09-15",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.2/twitch-twitchcontrol.ipa",
-          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-          "minOSVersion": "16.4",
-          "size": 182757643,
-          "version": "31.2 (0.0.6)"
         }
       ]
     },
@@ -1512,11 +1520,19 @@
       "bundleIdentifier": "tv.twitch",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
-      "localizedDescription": "Twitch 31.4 Tweach 2.4.1 for iOS.",
+      "localizedDescription": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
       "name": "Twitch (Twitchv, Moe Tweach)",
       "screenshots": [],
       "subtitle": "Tweach tweak build",
       "versions": [
+        {
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.2/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 196782384,
+          "version": "31.4.2 (2.4.1)"
+        },
         {
           "date": "2026-09-28",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4/twitchv-tweach.ipa",
@@ -1548,14 +1564,6 @@
           "minOSVersion": "16.4",
           "size": 193813498,
           "version": "31.2.4 (2.4.1)"
-        },
-        {
-          "date": "2026-09-15",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.2/twitchv-tweach.ipa",
-          "localizedDescription": "Twitch 31.2 Tweach 2.4.1 for iOS.",
-          "minOSVersion": "16.4",
-          "size": 193727515,
-          "version": "31.2 (2.4.1)"
         }
       ]
     }

@@ -22,21 +22,10 @@
   "infuse-moe-plus": {
     "app_id": "app_1776873562_1009",
     "bundle_identifier": "com.firecore.infuse",
-    "data_modified": 1789609697,
-    "description": "Infuse 8.5.5 2.6 Moe Plus for iOS.",
+    "data_modified": 1790790379,
+    "description": "Infuse 8.5.6 2.6 Moe Plus for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
     "versions": [
-      {
-        "data_modified": 1783727796,
-        "date": "2026-07-10",
-        "description": "Infuse 8.4.8 2.6 Moe Plus for iOS.",
-        "display_name": "Infuse 8.4.8 2.6 Moe Plus",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.4.8/infuse-moe-plus.ipa",
-        "min_os_version": "18.0",
-        "sha256": "4f76e040c4670398969335d2646cb1758a04b71f1e32a08304f25e654e5a5585",
-        "size": 98027322,
-        "version": "8.4.8"
-      },
       {
         "data_modified": 1785792377,
         "date": "2026-08-03",
@@ -80,6 +69,17 @@
         "sha256": "b9c0a91b18492740deb522df02a8dfe69cfd91dd081be4026832534232982dd7",
         "size": 99751126,
         "version": "8.5.5"
+      },
+      {
+        "data_modified": 1790790379,
+        "date": "2026-09-30",
+        "description": "Infuse 8.5.6 2.6 Moe Plus for iOS.",
+        "display_name": "Infuse 8.5.6 2.6 Moe Plus",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.6/infuse-moe-plus.ipa",
+        "min_os_version": "18.0",
+        "sha256": "e631dcc9085451bd204c0af8821b20241546de5a3e6e7c00705fbd40be104abc",
+        "size": 99183211,
+        "version": "8.5.6"
       }
     ]
   },
@@ -1002,21 +1002,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1790633735,
+    "data_modified": 1790789528,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1789503019,
-        "date": "2026-09-15",
-        "description": "Hold down with 3 fingers to open moemod menu",
-        "display_name": "Reddit 2026.37.0 Moes Reddit 4.0 With Login Fix",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.37.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "7cce0d46cc9f9f663420884c03a1edeba6d7243a09ab5badf352bb60d8adc60f",
-        "size": 147479505,
-        "version": "2026.37.0"
-      },
       {
         "data_modified": 1789762312,
         "date": "2026-09-18",
@@ -1059,6 +1048,17 @@
         "min_os_version": "16.0",
         "sha256": "42ead6e2a7cc408137d9a53aac6d43aa1993ea85c87bfb5530f067ddfba3340a",
         "size": 144239958,
+        "version": "2026.39.0"
+      },
+      {
+        "data_modified": 1790789528,
+        "date": "2026-09-30",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.39.0 MoesReddit 4.5.1 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.39.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "5fe8b9830b436f40aa72fa8d10c637d085b2bb2cf98ce031d6087c6df20cf18f",
+        "size": 144401884,
         "version": "2026.39.0"
       }
     ]
@@ -1126,21 +1126,10 @@
   "twitch-twitchcontrol": {
     "app_id": "app_1776873777_5494",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790626647,
+    "data_modified": 1790790379,
     "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods set...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitch-twitchcontrol.png",
     "versions": [
-      {
-        "data_modified": 1789503019,
-        "date": "2026-09-15",
-        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-        "display_name": "Twitch 31.2 Moe TwitchControl 0.0.6 read description",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.2/twitch-twitchcontrol.ipa",
-        "min_os_version": "16.4",
-        "sha256": "028b6ac7bb666c730abbb89c8bf7ee31617430a1d20b07df96456dfffae22d8d",
-        "size": 182757643,
-        "version": "31.2"
-      },
       {
         "data_modified": 1789681084,
         "date": "2026-09-17",
@@ -1184,27 +1173,27 @@
         "sha256": "9ee9cf57ded795fd79e7556bffb4d6877bec99754e77622e16f58ec1909a74cf",
         "size": 185813460,
         "version": "31.4"
+      },
+      {
+        "data_modified": 1790790379,
+        "date": "2026-09-30",
+        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+        "display_name": "Twitch 31.4.2 Moe TwitchControl 0.0.6 read description",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.2/twitch-twitchcontrol.ipa",
+        "min_os_version": "16.4",
+        "sha256": "98f6542c89b7c9c7992df4b1649985f600d97db871b421a7ab9ee13c9030dfbf",
+        "size": 185812509,
+        "version": "31.4.2"
       }
     ]
   },
   "twitchv-tweach": {
     "app_id": "app_1776873611_4164",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790626647,
-    "description": "Twitch 31.4 Tweach 2.4.1 for iOS.",
+    "data_modified": 1790790379,
+    "description": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
     "versions": [
-      {
-        "data_modified": 1789503019,
-        "date": "2026-09-15",
-        "description": "Twitch 31.2 Tweach 2.4.1 for iOS.",
-        "display_name": "Twitch 31.2 Tweach 2.4.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.2/twitchv-tweach.ipa",
-        "min_os_version": "16.4",
-        "sha256": "8341c096cea22f5dd76b18f079e3ae185ac15b95d95020d71a5a6c9349a9a561",
-        "size": 193727515,
-        "version": "31.2"
-      },
       {
         "data_modified": 1789681084,
         "date": "2026-09-17",
@@ -1248,14 +1237,25 @@
         "sha256": "89e6818c269068a98ab45e28c16ca8b81c6744ea8a5b365b277fbbe6df2e00ba",
         "size": 196783335,
         "version": "31.4"
+      },
+      {
+        "data_modified": 1790790379,
+        "date": "2026-09-30",
+        "description": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
+        "display_name": "Twitch 31.4.2 Tweach 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.2/twitchv-tweach.ipa",
+        "min_os_version": "16.4",
+        "sha256": "d4b854f17593f0f7f7cebdadae05b602f95bfb176528df14229ea198a27b06a9",
+        "size": 196782384,
+        "version": "31.4.2"
       }
     ]
   },
   "webssh": {
     "app_id": "app_1757008016_7340",
     "bundle_identifier": "com.itimeteo.webssh",
-    "data_modified": 1787084499,
-    "description": "Webssh 32.7 Pro for iOS.",
+    "data_modified": 1790790379,
+    "description": "Webssh 33.0 Pro for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/webssh.png",
     "versions": [
       {
@@ -1290,6 +1290,17 @@
         "sha256": "84acf301916100c242bdc736ae13d753368a8e3309ca30c7a4e8d452be2e8a10",
         "size": 99163453,
         "version": "32.7"
+      },
+      {
+        "data_modified": 1790790379,
+        "date": "2026-09-30",
+        "description": "Webssh 33.0 Pro for iOS.",
+        "display_name": "Webssh 33.0 Pro",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.0/webssh.ipa",
+        "min_os_version": "26.0",
+        "sha256": "5b18f7e427531aa121dfa6c2c3451ae8c882b273c36ae3fccec4bd555009fc7d",
+        "size": 105780395,
+        "version": "33.0"
       }
     ]
   },
