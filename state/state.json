@@ -1126,21 +1126,10 @@
   "twitch-twitchcontrol": {
     "app_id": "app_1776873777_5494",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790790379,
+    "data_modified": 1790885058,
     "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods set...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitch-twitchcontrol.png",
     "versions": [
-      {
-        "data_modified": 1789681084,
-        "date": "2026-09-17",
-        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-        "display_name": "Twitch 31.2.4 Moe TwitchControl 0.0.6 read description",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.2.4/twitch-twitchcontrol.ipa",
-        "min_os_version": "16.4",
-        "sha256": "cf5748c34f78f42a839a348fdba3552fd93e59e83acd79909a99a8f4e5c5e297",
-        "size": 182843627,
-        "version": "31.2.4"
-      },
       {
         "data_modified": 1790019814,
         "date": "2026-09-21",
@@ -1184,27 +1173,27 @@
         "sha256": "98f6542c89b7c9c7992df4b1649985f600d97db871b421a7ab9ee13c9030dfbf",
         "size": 185812509,
         "version": "31.4.2"
+      },
+      {
+        "data_modified": 1790885058,
+        "date": "2026-10-01",
+        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+        "display_name": "Twitch 31.4.4 Moe TwitchControl 0.0.6 read description",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.4/twitch-twitchcontrol.ipa",
+        "min_os_version": "16.4",
+        "sha256": "e3a70a4c3cc86515b80d3e4abbd3d7aa86b4f17b06817765f68a85d2efc9d346",
+        "size": 185826808,
+        "version": "31.4.4"
       }
     ]
   },
   "twitchv-tweach": {
     "app_id": "app_1776873611_4164",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790790379,
-    "description": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
+    "data_modified": 1790885058,
+    "description": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
     "versions": [
-      {
-        "data_modified": 1789681084,
-        "date": "2026-09-17",
-        "description": "Twitch 31.2.4 Tweach 2.4.1 for iOS.",
-        "display_name": "Twitch 31.2.4 Tweach 2.4.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.2.4/twitchv-tweach.ipa",
-        "min_os_version": "16.4",
-        "sha256": "d5102baa070b24ac71ca63e1c7c18d42e2c4929ac9b75c36f43e36df8b702a34",
-        "size": 193813498,
-        "version": "31.2.4"
-      },
       {
         "data_modified": 1790019814,
         "date": "2026-09-21",
@@ -1248,6 +1237,17 @@
         "sha256": "d4b854f17593f0f7f7cebdadae05b602f95bfb176528df14229ea198a27b06a9",
         "size": 196782384,
         "version": "31.4.2"
+      },
+      {
+        "data_modified": 1790885058,
+        "date": "2026-10-01",
+        "description": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
+        "display_name": "Twitch 31.4.4 Tweach 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.4/twitchv-tweach.ipa",
+        "min_os_version": "16.4",
+        "sha256": "baa20f41912d9bd2621ee62a6c086ea2af18eb5bdacb343c761daba682267bcc",
+        "size": 196796683,
+        "version": "31.4.4"
       }
     ]
   },

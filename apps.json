@@ -1471,6 +1471,14 @@
       "subtitle": "TwitchControl tweak build",
       "versions": [
         {
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.4/twitch-twitchcontrol.ipa",
+          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+          "minOSVersion": "16.4",
+          "size": 185826808,
+          "version": "31.4.4 (0.0.6)"
+        },
+        {
           "date": "2026-09-30",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.2/twitch-twitchcontrol.ipa",
           "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
@@ -1501,14 +1509,6 @@
           "minOSVersion": "16.4",
           "size": 183754162,
           "version": "31.3 (0.0.6)"
-        },
-        {
-          "date": "2026-09-17",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.2.4/twitch-twitchcontrol.ipa",
-          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-          "minOSVersion": "16.4",
-          "size": 182843627,
-          "version": "31.2.4 (0.0.6)"
         }
       ]
     },
@@ -1520,11 +1520,19 @@
       "bundleIdentifier": "tv.twitch",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
-      "localizedDescription": "Twitch 31.4.2 Tweach 2.4.1 for iOS.",
+      "localizedDescription": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
       "name": "Twitch (Twitchv, Moe Tweach)",
       "screenshots": [],
       "subtitle": "Tweach tweak build",
       "versions": [
+        {
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.4/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 196796683,
+          "version": "31.4.4 (2.4.1)"
+        },
         {
           "date": "2026-09-30",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.2/twitchv-tweach.ipa",
@@ -1556,14 +1564,6 @@
           "minOSVersion": "16.4",
           "size": 194724035,
           "version": "31.3 (2.4.1)"
-        },
-        {
-          "date": "2026-09-17",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.2.4/twitchv-tweach.ipa",
-          "localizedDescription": "Twitch 31.2.4 Tweach 2.4.1 for iOS.",
-          "minOSVersion": "16.4",
-          "size": 193813498,
-          "version": "31.2.4 (2.4.1)"
         }
       ]
     }
