@@ -106,21 +106,10 @@
   "instagram-ac": {
     "app_id": "app_1757008016_8023",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 AC 1.5 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 AC 1.5 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ac.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 AC 1.5 for iOS.",
-        "display_name": "Instagram 445.0.0 AC 1.5",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ac-445.0.0/instagram-ac.ipa",
-        "min_os_version": "16.3",
-        "sha256": "74c38e76e47fc8e9bc007de5c54e59105f137bd4d191851a512276742efe8693",
-        "size": 304724353,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -164,27 +153,27 @@
         "sha256": "05702123b324414f26e25ba557f673b579c5bd9151bd67d3d58f64f9f55f76dc",
         "size": 310087046,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 AC 1.5 for iOS.",
+        "display_name": "Instagram 450.1.0 AC 1.5",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ac-450.1.0/instagram-ac.ipa",
+        "min_os_version": "16.3",
+        "sha256": "ae69872bdb26cf47b353d440bae8deca72c425d4451cd1d188e1c752ca979fa6",
+        "size": 309366810,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-bh": {
     "app_id": "app_1757008016_5831",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 BH 1.2 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 BH 1.2 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-bh.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 BH 1.2 for iOS.",
-        "display_name": "Instagram 445.0.0 BH 1.2",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-bh-445.0.0/instagram-bh.ipa",
-        "min_os_version": "16.3",
-        "sha256": "977fa84e6ea283d564fe77c89fa8e235eaf3ba5b0a797cf2ca42a36322f9931e",
-        "size": 304891277,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -228,27 +217,27 @@
         "sha256": "96a2e4d7a316b61f71a80829385d3c398d4b4c3bb082af69509f8268efc9efcd",
         "size": 310266322,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 BH 1.2 for iOS.",
+        "display_name": "Instagram 450.1.0 BH 1.2",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-bh-450.1.0/instagram-bh.ipa",
+        "min_os_version": "16.3",
+        "sha256": "0cf4b830bbf5a629f21bf66acd366e7f3112b7da8217e1bf77ec49be1392351a",
+        "size": 309546085,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-dl-cracked": {
     "app_id": "app_1767395377_5704",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 DL 2.5 Cracked for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 DL 2.5 Cracked for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-dl-cracked.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 DL 2.5 Cracked for iOS.",
-        "display_name": "Instagram 445.0.0 DL 2.5 Cracked",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-dl-cracked-445.0.0/instagram-dl-cracked.ipa",
-        "min_os_version": "16.3",
-        "sha256": "a74511f254244c8db7e166a1271d9d543006dc5bb3c74c7538d10daa81eebca1",
-        "size": 305131967,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -292,27 +281,27 @@
         "sha256": "c0dc0c049699f13672e621b68564cfaac023661f324d5489e7b6fcb80857688c",
         "size": 310494656,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 DL 2.5 Cracked for iOS.",
+        "display_name": "Instagram 450.1.0 DL 2.5 Cracked",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-dl-cracked-450.1.0/instagram-dl-cracked.ipa",
+        "min_os_version": "16.3",
+        "sha256": "41d0824e1b0e1549526b70baaed9c32e3906e1945e2e2c4072f6012edba922f8",
+        "size": 309774421,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-igformat": {
     "app_id": "app_1757008016_2103",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "instagram 449.0.0 IGFormat 2.6 for iOS.",
+    "data_modified": 1791483606,
+    "description": "instagram 450.1.0 IGFormat 2.6 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-igformat.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "instagram 445.0.0 IGFormat 2.5 for iOS.",
-        "display_name": "instagram 445.0.0 IGFormat 2.5",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-igformat-445.0.0/instagram-igformat.ipa",
-        "min_os_version": "16.3",
-        "sha256": "6172126b309a3dadab8b4fd4271e59a2b8f87f0faeddb300b66a237bdd779457",
-        "size": 314538049,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788894284,
         "date": "2026-09-08",
@@ -356,27 +345,27 @@
         "sha256": "faeeb8972cc895ffa21529e27b06849496e293c0928a6cefad4e173ec005fc9b",
         "size": 319913418,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "instagram 450.1.0 IGFormat 2.6 for iOS.",
+        "display_name": "instagram 450.1.0 IGFormat 2.6",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-igformat-450.1.0/instagram-igformat.ipa",
+        "min_os_version": "16.3",
+        "sha256": "2b0a896d24726685211d5cb75b121fb24e1db1543876e5be090aec109718633a",
+        "size": 319193183,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-ink-plus": {
     "app_id": "app_1757008016_8735",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 INK Plus 5.2.10 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 INK Plus 5.2.10 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ink-plus.png",
     "versions": [
-      {
-        "data_modified": 1789503019,
-        "date": "2026-09-15",
-        "description": "Instagram 447.0.0 INK Plus 5.2.1 for iOS.",
-        "display_name": "Instagram 447.0.0 INK Plus 5.2.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-447.0.0/instagram-ink-plus.ipa",
-        "min_os_version": "16.3",
-        "sha256": "bc221517f0c121f20cd33ee184d3dde2cd5c8ebc9f1538b9c040be27e6d3ca91",
-        "size": 299333620,
-        "version": "447.0.0"
-      },
       {
         "data_modified": 1790019814,
         "date": "2026-09-21",
@@ -420,27 +409,27 @@
         "sha256": "ac87a722c1afd35b2cb26de32c7952f7b6552226133a195bbedf973c5b42aba9",
         "size": 309776322,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 INK Plus 5.2.10 for iOS.",
+        "display_name": "Instagram 450.1.0 INK Plus 5.2.10",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-450.1.0/instagram-ink-plus.ipa",
+        "min_os_version": "16.3",
+        "sha256": "a7847f1e78c871c218af88ac3423da83224748e5719c1e8f1d425107e92039b2",
+        "size": 309126931,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-lrd-cracked": {
     "app_id": "app_1767395338_6014",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 LRD 2.19 Cracked for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 LRD 2.19 Cracked for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-lrd-cracked.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 LRD 2.19 Cracked for iOS.",
-        "display_name": "Instagram 445.0.0 LRD 2.19 Cracked",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-lrd-cracked-445.0.0/instagram-lrd-cracked.ipa",
-        "min_os_version": "16.3",
-        "sha256": "b106190ba487c5e73bf38cb5400e7d27eaf0d5e04be49547934ed72f65bc6d8a",
-        "size": 309050073,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -484,27 +473,27 @@
         "sha256": "a895ad20132354e53541914daaa7c94f2becf69307f12d9eb9769f6ac52d8d8b",
         "size": 314412770,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 LRD 2.19 Cracked for iOS.",
+        "display_name": "Instagram 450.1.0 LRD 2.19 Cracked",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-lrd-cracked-450.1.0/instagram-lrd-cracked.ipa",
+        "min_os_version": "16.3",
+        "sha256": "17abac73b852343dd031e787dbd46526cb926e1e98f39014e0e40266501f4707",
+        "size": 313692534,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
+    "data_modified": 1791483606,
     "description": "Do not sign with ESign. Hold the Reels button or use a three-finger gesture to open Moe Multi. A fresh install is recomm...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
-      {
-        "data_modified": 1788377909,
-        "date": "2026-09-02",
-        "description": "8.4 changelog= added sparkle",
-        "display_name": "Instagram 445.0.0 Moe Multi 8.5",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-445.0.0/instagram-moe-multi.ipa",
-        "min_os_version": "16.3",
-        "sha256": "e62ee23130e77d95489aade731be1dc3be791fba4d249d698dd6327626e3adec",
-        "size": 405696715,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -548,6 +537,17 @@
         "sha256": "a14fbc930ed90c3610c4f839591c98469a241f93a9eb3404141ea0474a9fe712",
         "size": 410721101,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "8.4 changelog= added sparkle",
+        "display_name": "Instagram 450.1.0 Moe Multi 8.5",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-450.1.0/instagram-moe-multi.ipa",
+        "min_os_version": "16.3",
+        "sha256": "fd9ca41f8e114334db26fc88dfc6374662caf7fc5a6d83a0539846bdf6d6f9bb",
+        "size": 410070889,
+        "version": "450.1.0"
       }
     ]
   },
@@ -618,21 +618,10 @@
   "instagram-nyx-b4": {
     "app_id": "app_1757008016_8129",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "instagram 449.0.0 NYX 1.7.2 Beta for iOS.",
+    "data_modified": 1791483606,
+    "description": "instagram 450.1.0 NYX 1.7.2 Beta for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-nyx-b4.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "instagram 445.0.0 NYX 1.7.2 Beta for iOS.",
-        "display_name": "instagram 445.0.0 NYX 1.7.2 Beta",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-445.0.0/instagram-nyx-b4.ipa",
-        "min_os_version": "16.3",
-        "sha256": "2af5d702fe9583be0c34833c5f725f001a36a2e596497a69d7482e2dd3a8aa72",
-        "size": 335794870,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -676,6 +665,17 @@
         "sha256": "bb01ab9c6a1b14fa723dd89501ed98f2172f5a55435cd3124c134c9465f5c915",
         "size": 341157877,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "instagram 450.1.0 NYX 1.7.2 Beta for iOS.",
+        "display_name": "instagram 450.1.0 NYX 1.7.2 Beta",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-450.1.0/instagram-nyx-b4.ipa",
+        "min_os_version": "16.3",
+        "sha256": "be9e9c675666f2815e156cd05b2b5fb2f6fcf0b82463e065c308eab587fa6277",
+        "size": 340437632,
+        "version": "450.1.0"
       }
     ]
   },
@@ -746,21 +746,10 @@
   "instagram-rocket-cracked": {
     "app_id": "app_1757008016_8648",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 Moe Rocket Cracked 4.3.3 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-rocket-cracked.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
-        "display_name": "Instagram 445.0.0 Moe Rocket Cracked 4.3.3",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-445.0.0/instagram-rocket-cracked.ipa",
-        "min_os_version": "16.3",
-        "sha256": "e9d0c6dce7a4db08eab7eef50f32ec41d92e7d77ccc604e304e413695c50632b",
-        "size": 305379427,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -804,27 +793,27 @@
         "sha256": "f8fa155d3289da195da9707d7c3aef90520b20daf2d9773f3c0d43187553203f",
         "size": 310742133,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 Moe Rocket Cracked 4.3.3 for iOS.",
+        "display_name": "Instagram 450.1.0 Moe Rocket Cracked 4.3.3",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-450.1.0/instagram-rocket-cracked.ipa",
+        "min_os_version": "16.3",
+        "sha256": "89f0f1a91a2c6e2236ce80c941be46c8fb8fb9ad14fe9e4cc3968cfda6b7230d",
+        "size": 310021897,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-ryukgram": {
     "app_id": "app_1776979936_3686",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 Moe RyukGram 1.4.0 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 Moe RyukGram 1.4.5 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ryukgram.png",
     "versions": [
-      {
-        "data_modified": 1788893771,
-        "date": "2026-09-08",
-        "description": "Instagram 446.0.0 Moe RyukGram 1.3.3 for iOS.",
-        "display_name": "Instagram 446.0.0 Moe RyukGram 1.3.3",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-446.0.0/instagram-ryukgram.ipa",
-        "min_os_version": "16.3",
-        "sha256": "6f83c46ff8377602c7aa73bda79088a24161d16edf0f2e0c9f96ae5911945e0f",
-        "size": 329943393,
-        "version": "446.0.0"
-      },
       {
         "data_modified": 1789344467,
         "date": "2026-09-14",
@@ -868,27 +857,27 @@
         "sha256": "658d7b6b64826916d12a6bcb62d4a76f8e4ed475d82a462c9a727ed21bbee8cc",
         "size": 335387061,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 Moe RyukGram 1.4.5 for iOS.",
+        "display_name": "Instagram 450.1.0 Moe RyukGram 1.4.5",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-450.1.0/instagram-ryukgram.ipa",
+        "min_os_version": "16.3",
+        "sha256": "c0f3aafc43720a1748d6d642ce53205940c79704cc617504fbf2dd399e56a046",
+        "size": 335517779,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-sc": {
     "app_id": "app_1758659552_5935",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 SC 1.1.1 Moe for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 SC 1.1.1 Moe for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-sc.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 SC 1.1.1 Moe for iOS.",
-        "display_name": "Instagram 445.0.0 SC 1.1.1 Moe",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-sc-445.0.0/instagram-sc.ipa",
-        "min_os_version": "16.3",
-        "sha256": "e1de00c392027701a29815962066649cd36efff635d36afecc61977907bc6d93",
-        "size": 304798322,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -932,27 +921,27 @@
         "sha256": "0c1a6176e5de2f4c5a2ac6e43d2fabbb104a532e281c8ed858503dd586ee965d",
         "size": 310161002,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 SC 1.1.1 Moe for iOS.",
+        "display_name": "Instagram 450.1.0 SC 1.1.1 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-sc-450.1.0/instagram-sc.ipa",
+        "min_os_version": "16.3",
+        "sha256": "3bcc9b888a29b2788a854ab51b6ab7c7ce66ea2c38370065d45eefc73b523bcc",
+        "size": 309440765,
+        "version": "450.1.0"
       }
     ]
   },
   "instagram-theta": {
     "app_id": "app_1757008016_6127",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1790985402,
-    "description": "Instagram 449.0.0 Theta 5.0 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Instagram 450.1.0 Theta 5.0 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-theta.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Instagram 445.0.0 Theta 5.0 for iOS.",
-        "display_name": "Instagram 445.0.0 Theta 5.0",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-445.0.0/instagram-theta.ipa",
-        "min_os_version": "16.3",
-        "sha256": "0175e65355c62b5013d847b0cf93a3f214033f2cdbe79510a03effc447c0214d",
-        "size": 324099119,
-        "version": "445.0.0"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -996,27 +985,27 @@
         "sha256": "85738d160e19d615b5bcc1e8252d33cc8adc68aaf4c39617c066fe836e468498",
         "size": 329462181,
         "version": "449.0.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Instagram 450.1.0 Theta 5.0 for iOS.",
+        "display_name": "Instagram 450.1.0 Theta 5.0",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-450.1.0/instagram-theta.ipa",
+        "min_os_version": "16.3",
+        "sha256": "8543ef89dc590e606cc47eb7b4bfe1c27102add2a2d6b939fd4f6cb3104d54bd",
+        "size": 328741936,
+        "version": "450.1.0"
       }
     ]
   },
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1790789528,
+    "data_modified": 1791483606,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1789762312,
-        "date": "2026-09-18",
-        "description": "Hold down with 3 fingers to open moemod menu",
-        "display_name": "Reddit 2026.37.0 Moes Reddit 4.2 With Login Fix",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.37.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "09eec5a97b354a8cb0de96f3a21884dc3c49c89a43ecafa61793a9a2e7ca2f34",
-        "size": 147976073,
-        "version": "2026.37.0"
-      },
       {
         "data_modified": 1790103226,
         "date": "2026-09-22",
@@ -1060,6 +1049,17 @@
         "sha256": "5fe8b9830b436f40aa72fa8d10c637d085b2bb2cf98ce031d6087c6df20cf18f",
         "size": 144401884,
         "version": "2026.39.0"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.40.0 MoesReddit 4.5.1 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.40.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "1e6d700d2c299e0487e14ee8fc5938ca7e743c94b1dcb678e5434a240f55cd53",
+        "size": 145178579,
+        "version": "2026.40.0"
       }
     ]
   },
@@ -1126,21 +1126,10 @@
   "twitch-twitchcontrol": {
     "app_id": "app_1776873777_5494",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790885058,
+    "data_modified": 1791483606,
     "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods set...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitch-twitchcontrol.png",
     "versions": [
-      {
-        "data_modified": 1790019814,
-        "date": "2026-09-21",
-        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-        "display_name": "Twitch 31.3 Moe TwitchControl 0.0.6 read description",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.3/twitch-twitchcontrol.ipa",
-        "min_os_version": "16.4",
-        "sha256": "bf2b68a9b782984cda81096058cb906a7f4a0308849eec8177ac4265ce7ac16b",
-        "size": 183754162,
-        "version": "31.3"
-      },
       {
         "data_modified": 1790101688,
         "date": "2026-09-22",
@@ -1184,27 +1173,27 @@
         "sha256": "e3a70a4c3cc86515b80d3e4abbd3d7aa86b4f17b06817765f68a85d2efc9d346",
         "size": 185826808,
         "version": "31.4.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+        "display_name": "Twitch 31.5 Moe TwitchControl 0.0.6 read description",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.5/twitch-twitchcontrol.ipa",
+        "min_os_version": "16.4",
+        "sha256": "191baa8bce672d3f41ed6f137a5cf246ebce85aea975558d51a4e25cf8f452e4",
+        "size": 191154778,
+        "version": "31.5"
       }
     ]
   },
   "twitchv-tweach": {
     "app_id": "app_1776873611_4164",
     "bundle_identifier": "tv.twitch",
-    "data_modified": 1790885058,
-    "description": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Twitch 31.5 Tweach 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
     "versions": [
-      {
-        "data_modified": 1790019814,
-        "date": "2026-09-21",
-        "description": "Twitch 31.3 Tweach 2.4.1 for iOS.",
-        "display_name": "Twitch 31.3 Tweach 2.4.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.3/twitchv-tweach.ipa",
-        "min_os_version": "16.4",
-        "sha256": "4afdd8e1429ed255afd958585a356804a4e41f971862852d0f1072903d9a2433",
-        "size": 194724035,
-        "version": "31.3"
-      },
       {
         "data_modified": 1790101688,
         "date": "2026-09-22",
@@ -1248,6 +1237,17 @@
         "sha256": "baa20f41912d9bd2621ee62a6c086ea2af18eb5bdacb343c761daba682267bcc",
         "size": 196796683,
         "version": "31.4.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Twitch 31.5 Tweach 2.4.1 for iOS.",
+        "display_name": "Twitch 31.5 Tweach 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.5/twitchv-tweach.ipa",
+        "min_os_version": "16.4",
+        "sha256": "360fffd1904c61b92cc746f1b5cc4f7e6acfae608aacd1e6574d353636b44774",
+        "size": 202124649,
+        "version": "31.5"
       }
     ]
   },
@@ -1378,21 +1378,10 @@
   "youtube-lrd-cracked": {
     "app_id": "app_1767418254_3524",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1790619513,
-    "description": "Youtube 21.39.4 Moe LRD 1.13 Cracked for iOS.",
+    "data_modified": 1791483606,
+    "description": "Youtube 21.40.5 Moe LRD 1.13 Cracked for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-lrd-cracked.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Youtube 21.35.3 Moe LRD 1.13 Cracked for iOS.",
-        "display_name": "Youtube 21.35.3 Moe LRD 1.13 Cracked",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.35.3/youtube-lrd-cracked.ipa",
-        "min_os_version": "17.0",
-        "sha256": "82250b163404207adebee909538f997217852ab7c3ffac728a43f93fddb9755b",
-        "size": 161110014,
-        "version": "21.35.3"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -1436,6 +1425,17 @@
         "sha256": "cb15a3654bea476a55e748b4e690f3cb46bef6984b68041c3157934faae1bc49",
         "size": 162939846,
         "version": "21.39.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Youtube 21.40.5 Moe LRD 1.13 Cracked for iOS.",
+        "display_name": "Youtube 21.40.5 Moe LRD 1.13 Cracked",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.40.5/youtube-lrd-cracked.ipa",
+        "min_os_version": "17.0",
+        "sha256": "5aa5328c1376fa5e1dd86bd23ea4d89b0aa557c3ba29ccd97a2d8c40ec3fb787",
+        "size": 162304686,
+        "version": "21.40.5"
       }
     ]
   },
@@ -1484,21 +1484,10 @@
   "youtube-moe-sy": {
     "app_id": "app_1759517364_7181",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1790619513,
-    "description": "Youtube 21.39.4 Moe SY 2.0 Moe for iOS.",
+    "data_modified": 1791483606,
+    "description": "Youtube 21.40.5 Moe SY 2.0 Moe for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-sy.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Youtube 21.35.3 Moe SY 2.0 Moe for iOS.",
-        "display_name": "Youtube 21.35.3 Moe SY 2.0 Moe",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.35.3/youtube-moe-sy.ipa",
-        "min_os_version": "17.0",
-        "sha256": "860fd2f510bbbc6b1bf9f10240fe39ae82decdde987c95ed48f27a36956d5516",
-        "size": 160513698,
-        "version": "21.35.3"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -1542,27 +1531,27 @@
         "sha256": "29430fd127f2c8062951c8dfd1f7692ebdb53142dbe0fdaf1e6b29bd3aa90152",
         "size": 162343547,
         "version": "21.39.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Youtube 21.40.5 Moe SY 2.0 Moe for iOS.",
+        "display_name": "Youtube 21.40.5 Moe SY 2.0 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-sy-21.40.5/youtube-moe-sy.ipa",
+        "min_os_version": "17.0",
+        "sha256": "f5f91edbe71a4d05a455dc65f0fb690eb406118174f6756b1500897fc603f306",
+        "size": 161708389,
+        "version": "21.40.5"
       }
     ]
   },
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1790624487,
-    "description": "YouTube 21.39.4 YTKillerPlus 6.6 Stable with Mods for iOS.",
+    "data_modified": 1791483606,
+    "description": "YouTube 21.40.5 YTKillerPlus 6.6.5 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1788981006,
-        "date": "2026-09-09",
-        "description": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.36.6 YTKillerPlus 6.5.2 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.36.6/youtube-moe-ytk.ipa",
-        "min_os_version": "17.0",
-        "sha256": "02fada3fc1fa1073279401c69acb784c86dcbdee3ab68fa065620c257cf7b9c3",
-        "size": 145618111,
-        "version": "21.36.6"
-      },
       {
         "data_modified": 1789344467,
         "date": "2026-09-14",
@@ -1606,27 +1595,27 @@
         "sha256": "e008821214d8323714e2c55944a65c35649fd4284ae6a6c57b4d0d1ebd238c82",
         "size": 156212414,
         "version": "21.39.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "YouTube 21.40.5 YTKillerPlus 6.6.5 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.40.5 YTKillerPlus 6.6.5 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.40.5/youtube-moe-ytk.ipa",
+        "min_os_version": "17.0",
+        "sha256": "b79fcce56671b63043e7c01acb264e0e16aa03a34869d83fa2548f181fcd2269",
+        "size": 155591532,
+        "version": "21.40.5"
       }
     ]
   },
   "youtube-music": {
     "app_id": "app_1770927442_3128",
     "bundle_identifier": "com.google.ios.youtubemusic",
-    "data_modified": 1790533540,
-    "description": "Youtube Music 9.39.2 Ultimate Enhanced 2.4.1 for iOS.",
+    "data_modified": 1791483606,
+    "description": "Youtube Music 9.40.2 Ultimate Enhanced 2.4.1 for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Youtube Music 9.35.2 Ultimate Enhanced 2.4.1 for iOS.",
-        "display_name": "Youtube Music 9.35.2 Ultimate Enhanced 2.4.1",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.35.2/youtube-music.ipa",
-        "min_os_version": "16.0",
-        "sha256": "0227ed442f8b27ac6efe5d410e1bf3bb5631e5a92e74c9ccb1086d4cc1b659bb",
-        "size": 109407872,
-        "version": "9.35.2"
-      },
       {
         "data_modified": 1789092733,
         "date": "2026-09-11",
@@ -1670,6 +1659,17 @@
         "sha256": "9106aa68307c05ff165f8cc86aa8188ca1a2455716a1983de2d167dccc8a5835",
         "size": 110810055,
         "version": "9.39.2"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Youtube Music 9.40.2 Ultimate Enhanced 2.4.1 for iOS.",
+        "display_name": "Youtube Music 9.40.2 Ultimate Enhanced 2.4.1",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.40.2/youtube-music.ipa",
+        "min_os_version": "17.0",
+        "sha256": "fbf6b20bc151a76ed94ca1b7491b46ec9b11d396a1c68b9625483f1dde0206d1",
+        "size": 110468420,
+        "version": "9.40.2"
       }
     ]
   },
@@ -1696,21 +1696,10 @@
   "youtube-ytplus-temp-free": {
     "app_id": "app_1757008016_9593",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1790619513,
-    "description": "Youtube 21.39.4 Moe YTPlus 5.2.1 Free for iOS.",
+    "data_modified": 1791483606,
+    "description": "Youtube 21.40.5 Moe YTPlus 5.2.1 Free for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
     "versions": [
-      {
-        "data_modified": 1788291620,
-        "date": "2026-09-01",
-        "description": "Youtube 21.35.3 Moe YTPlus 5.2.1 Free for iOS.",
-        "display_name": "Youtube 21.35.3 Moe YTPlus 5.2.1 Free",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.35.3/youtube-ytplus-temp-free.ipa",
-        "min_os_version": "17.0",
-        "sha256": "dde87ce0124966c6a1553e4319f6b614d253c7b947e8c3096fbf799fb7030991",
-        "size": 167024669,
-        "version": "21.35.3"
-      },
       {
         "data_modified": 1788893771,
         "date": "2026-09-08",
@@ -1754,6 +1743,17 @@
         "sha256": "02187efd971d531b33308e79fbdce427fc9687ff2e950b136534de3b88f337b9",
         "size": 168854528,
         "version": "21.39.4"
+      },
+      {
+        "data_modified": 1791483606,
+        "date": "2026-10-08",
+        "description": "Youtube 21.40.5 Moe YTPlus 5.2.1 Free for iOS.",
+        "display_name": "Youtube 21.40.5 Moe YTPlus 5.2.1 Free",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.40.5/youtube-ytplus-temp-free.ipa",
+        "min_os_version": "17.0",
+        "sha256": "55dca21dcc9ce31c672bec52adfd1a898f87f6322aa88439ba968aa6a116d188",
+        "size": 168219368,
+        "version": "21.40.5"
       }
     ]
   }
