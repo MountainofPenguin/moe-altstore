@@ -1378,21 +1378,10 @@
   "youtube-lrd-cracked": {
     "app_id": "app_1767418254_3524",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1791859612,
-    "description": "Youtube 21.41.5 Moe LRD 1.13 Cracked for iOS.",
+    "data_modified": 1792712117,
+    "description": "Youtube 21.42.4 Moe LRD 1.13 Cracked for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-lrd-cracked.png",
     "versions": [
-      {
-        "data_modified": 1789344467,
-        "date": "2026-09-14",
-        "description": "Youtube 21.37.4 Moe LRD 1.13 Cracked for iOS.",
-        "display_name": "Youtube 21.37.4 Moe LRD 1.13 Cracked",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.37.4/youtube-lrd-cracked.ipa",
-        "min_os_version": "17.0",
-        "sha256": "63ba5720aff2fd558eb66de17e0c7b014e5b8c3166e3caa5fa2b323bd39c65d2",
-        "size": 162411668,
-        "version": "21.37.4"
-      },
       {
         "data_modified": 1790019814,
         "date": "2026-09-21",
@@ -1436,6 +1425,17 @@
         "sha256": "a461bf9615e0f641757cedce5540dd5e95aa8eac7e08fa001db6e2f32a31e2a3",
         "size": 162229592,
         "version": "21.41.5"
+      },
+      {
+        "data_modified": 1792712117,
+        "date": "2026-10-22",
+        "description": "Youtube 21.42.4 Moe LRD 1.13 Cracked for iOS.",
+        "display_name": "Youtube 21.42.4 Moe LRD 1.13 Cracked",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.42.4/youtube-lrd-cracked.ipa",
+        "min_os_version": "17.0",
+        "sha256": "db130b0fd313abc19b5ca28179e3d89c8f6264b375973d14ca0545e956ac6e63",
+        "size": 145338524,
+        "version": "21.42.4"
       }
     ]
   },
@@ -1548,21 +1548,10 @@
   "youtube-moe-ytk": {
     "app_id": "app_1757017627_3645",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1792622924,
-    "description": "YouTube 21.41.5 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
+    "data_modified": 1792712117,
+    "description": "YouTube 21.42.4 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
     "versions": [
-      {
-        "data_modified": 1790195171,
-        "date": "2026-09-23",
-        "description": "YouTube 21.38.2 YTKillerPlus 6.5.8 Stable with Mods for iOS.",
-        "display_name": "YouTube 21.38.2 YTKillerPlus 6.5.8 Stable with Mods",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.38.2/youtube-moe-ytk.ipa",
-        "min_os_version": "17.0",
-        "sha256": "1ad2a2d7ccd5dfcb617ad8c779336f136e6718447ee61cc6fd96789cd82ceb52",
-        "size": 150163602,
-        "version": "21.38.2"
-      },
       {
         "data_modified": 1790624487,
         "date": "2026-09-28",
@@ -1606,6 +1595,17 @@
         "sha256": "df25fabcb0c3bed4e6ac9bb2b8c973ecd890baf52f63b99687a2cf8a7a9013ae",
         "size": 153354989,
         "version": "21.41.5"
+      },
+      {
+        "data_modified": 1792712117,
+        "date": "2026-10-22",
+        "description": "YouTube 21.42.4 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
+        "display_name": "YouTube 21.42.4 YTKillerPlus 6.7.2 Stable with Mods",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.42.4/youtube-moe-ytk.ipa",
+        "min_os_version": "17.0",
+        "sha256": "59dee35ec402bee3a447688e22c644e0a1d3865571980acbcbe2a693e781ef42",
+        "size": 154103855,
+        "version": "21.42.4"
       }
     ]
   },
@@ -1696,21 +1696,10 @@
   "youtube-ytplus-temp-free": {
     "app_id": "app_1757008016_9593",
     "bundle_identifier": "com.google.ios.youtube",
-    "data_modified": 1791859612,
-    "description": "Youtube 21.41.5 Moe YTPlus 5.2.1 Free for iOS.",
+    "data_modified": 1792712117,
+    "description": "Youtube 21.42.4 Moe YTPlus 5.2.1 Free for iOS.",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
     "versions": [
-      {
-        "data_modified": 1789344467,
-        "date": "2026-09-14",
-        "description": "Youtube 21.37.4 Moe YTPlus 5.2.1 Free for iOS.",
-        "display_name": "Youtube 21.37.4 Moe YTPlus 5.2.1 Free",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.37.4/youtube-ytplus-temp-free.ipa",
-        "min_os_version": "17.0",
-        "sha256": "29291fc869f3b2db308ed4ddbb8afdafb24886d0f58d4f292a90479ae4850ddd",
-        "size": 168326372,
-        "version": "21.37.4"
-      },
       {
         "data_modified": 1790019814,
         "date": "2026-09-21",
@@ -1754,6 +1743,17 @@
         "sha256": "3a5a6f70332b6462cb6854b5367d4e8a044d84008e2e99f0310ca03fcf2ca143",
         "size": 168144274,
         "version": "21.41.5"
+      },
+      {
+        "data_modified": 1792712117,
+        "date": "2026-10-22",
+        "description": "Youtube 21.42.4 Moe YTPlus 5.2.1 Free for iOS.",
+        "display_name": "Youtube 21.42.4 Moe YTPlus 5.2.1 Free",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.42.4/youtube-ytplus-temp-free.ipa",
+        "min_os_version": "17.0",
+        "sha256": "88bb2ce8bb4a579db665bff645433410801671791f0e73a92eea7a0bd4927f5f",
+        "size": 151222498,
+        "version": "21.42.4"
       }
     ]
   }
