@@ -32,11 +32,19 @@
       "bundleIdentifier": "com.itimeteo.webssh",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/webssh.png",
-      "localizedDescription": "Webssh 33.0 Pro for iOS.",
+      "localizedDescription": "Webssh 33.2 Pro for iOS.",
       "name": "Webssh",
       "screenshots": [],
       "subtitle": "SSH client, Pro patch",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.2/webssh.ipa",
+          "localizedDescription": "Webssh 33.2 Pro for iOS.",
+          "minOSVersion": "26.0",
+          "size": 105169513,
+          "version": "33.2"
+        },
         {
           "date": "2026-09-30",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/webssh-33.0/webssh.ipa",
@@ -85,6 +93,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.43.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 147922261,
+          "version": "2026.43.0 (4.6.1)"
+        },
+        {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.42.1/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -115,14 +131,6 @@
           "minOSVersion": "16.0",
           "size": 144401884,
           "version": "2026.39.0 (4.5.1)"
-        },
-        {
-          "date": "2026-09-28",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.39.0/moereddit.ipa",
-          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 144239958,
-          "version": "2026.39.0 (4.5)"
         }
       ]
     },
@@ -134,11 +142,19 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/infuse-moe-plus.png",
-      "localizedDescription": "Infuse 8.5.8 2.6 Moe Plus for iOS.",
+      "localizedDescription": "Infuse 8.5.9 2.6 Moe Plus for iOS.",
       "name": "Infuse (Moe Plus)",
       "screenshots": [],
       "subtitle": "Media player, Moe Plus patch",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.9/infuse-moe-plus.ipa",
+          "localizedDescription": "Infuse 8.5.9 2.6 Moe Plus for iOS.",
+          "minOSVersion": "18.0",
+          "size": 98520724,
+          "version": "8.5.9 (2.6)"
+        },
         {
           "date": "2026-10-16",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.8/infuse-moe-plus.ipa",
@@ -170,14 +186,6 @@
           "minOSVersion": "18.0",
           "size": 99751126,
           "version": "8.5.5 (2.6)"
-        },
-        {
-          "date": "2026-09-15",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/infuse-moe-plus-8.5.4/infuse-moe-plus.ipa",
-          "localizedDescription": "Infuse 8.5.4 2.6 Moe Plus for iOS.",
-          "minOSVersion": "18.0",
-          "size": 99735608,
-          "version": "8.5.4 (2.6)"
         }
       ]
     },
@@ -251,11 +259,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-moe-ytk.png",
-      "localizedDescription": "YouTube 21.42.4 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
+      "localizedDescription": "YouTube 21.43.5 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
       "name": "YouTube (Moe YTK)",
       "screenshots": [],
       "subtitle": "YTKillerPlus tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.43.5/youtube-moe-ytk.ipa",
+          "localizedDescription": "YouTube 21.43.5 YTKillerPlus 6.7.2 Stable with Mods for iOS.",
+          "minOSVersion": "17.0",
+          "size": 154629012,
+          "version": "21.43.5 (6.7.2)"
+        },
         {
           "date": "2026-10-22",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.42.4/youtube-moe-ytk.ipa",
@@ -287,14 +303,6 @@
           "minOSVersion": "17.0",
           "size": 155591532,
           "version": "21.40.5 (6.6.5)"
-        },
-        {
-          "date": "2026-09-28",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-moe-ytk-21.39.4/youtube-moe-ytk.ipa",
-          "localizedDescription": "YouTube 21.39.4 YTKillerPlus 6.6 Stable with Mods for iOS.",
-          "minOSVersion": "17.0",
-          "size": 156212414,
-          "version": "21.39.4 (6.6)"
         }
       ]
     },
@@ -406,11 +414,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-lrd-cracked.png",
-      "localizedDescription": "Youtube 21.42.4 Moe LRD 1.13 Cracked for iOS.",
+      "localizedDescription": "Youtube 21.43.5 Moe LRD 1.13 Cracked for iOS.",
       "name": "YouTube (Moe LRD, Cracked)",
       "screenshots": [],
       "subtitle": "TubeLRD tweak build, cracked",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.43.5/youtube-lrd-cracked.ipa",
+          "localizedDescription": "Youtube 21.43.5 Moe LRD 1.13 Cracked for iOS.",
+          "minOSVersion": "17.0",
+          "size": 145863775,
+          "version": "21.43.5 (1.13)"
+        },
         {
           "date": "2026-10-22",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.42.4/youtube-lrd-cracked.ipa",
@@ -442,14 +458,6 @@
           "minOSVersion": "17.0",
           "size": 162939846,
           "version": "21.39.4 (1.13)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-lrd-cracked-21.38.2/youtube-lrd-cracked.ipa",
-          "localizedDescription": "Youtube 21.38.2 Moe LRD 1.13 Cracked for iOS.",
-          "minOSVersion": "17.0",
-          "size": 163011230,
-          "version": "21.38.2 (1.13)"
         }
       ]
     },
@@ -516,11 +524,19 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-ytplus-temp-free.png",
-      "localizedDescription": "Youtube 21.42.4 Moe YTPlus 5.2.1 Free for iOS.",
+      "localizedDescription": "Youtube 21.43.5 Moe YTPlus 5.2.1 Free for iOS.",
       "name": "YouTube (Moe YTPlus, Temp Free)",
       "screenshots": [],
       "subtitle": "YTPlus tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.43.5/youtube-ytplus-temp-free.ipa",
+          "localizedDescription": "Youtube 21.43.5 Moe YTPlus 5.2.1 Free for iOS.",
+          "minOSVersion": "17.0",
+          "size": 151747685,
+          "version": "21.43.5 (5.2.1)"
+        },
         {
           "date": "2026-10-22",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.42.4/youtube-ytplus-temp-free.ipa",
@@ -552,14 +568,6 @@
           "minOSVersion": "17.0",
           "size": 168854528,
           "version": "21.39.4 (5.2.1)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-ytplus-temp-free-21.38.2/youtube-ytplus-temp-free.ipa",
-          "localizedDescription": "Youtube 21.38.2 Moe YTPlus 5.2.1 Free for iOS.",
-          "minOSVersion": "17.0",
-          "size": 168925914,
-          "version": "21.38.2 (5.2.1)"
         }
       ]
     },
@@ -571,11 +579,19 @@
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/youtube-music.png",
-      "localizedDescription": "Youtube Music 9.42.2 Ultimate Enhanced 2.4.1 for iOS.",
+      "localizedDescription": "Youtube Music 9.43.2 Ultimate Enhanced 2.4.1 for iOS.",
       "name": "YouTube Music",
       "screenshots": [],
       "subtitle": "Ultimate Enhanced tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.43.2/youtube-music.ipa",
+          "localizedDescription": "Youtube Music 9.43.2 Ultimate Enhanced 2.4.1 for iOS.",
+          "minOSVersion": "17.0",
+          "size": 110030324,
+          "version": "9.43.2 (2.4.1)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.42.2/youtube-music.ipa",
@@ -607,14 +623,6 @@
           "minOSVersion": "16.0",
           "size": 110810055,
           "version": "9.39.2 (2.4.1)"
-        },
-        {
-          "date": "2026-09-22",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/youtube-music-9.38.1/youtube-music.ipa",
-          "localizedDescription": "Youtube Music 9.38.1 Ultimate Enhanced 2.4.1 for iOS.",
-          "minOSVersion": "16.0",
-          "size": 111046081,
-          "version": "9.38.1 (2.4.1)"
         }
       ]
     },
@@ -631,6 +639,14 @@
       "screenshots": [],
       "subtitle": "Multi-tweak loader",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-453.0.0/instagram-moe-multi.ipa",
+          "localizedDescription": "8.4 changelog= added sparkle",
+          "minOSVersion": "16.3",
+          "size": 434602446,
+          "version": "453.0.0 (8.6)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-452.0.1/instagram-moe-multi.ipa",
@@ -662,14 +678,6 @@
           "minOSVersion": "16.3",
           "size": 410721101,
           "version": "449.0.0 (8.5)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-448.0.0/instagram-moe-multi.ipa",
-          "localizedDescription": "8.4 changelog= added sparkle",
-          "minOSVersion": "16.3",
-          "size": 403980739,
-          "version": "448.0.0 (8.5)"
         }
       ]
     },
@@ -681,11 +689,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ac.png",
-      "localizedDescription": "Instagram 452.0.1 AC 1.5 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 AC 1.5 for iOS.",
       "name": "Instagram (AC)",
       "screenshots": [],
       "subtitle": "AC tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ac-453.0.0/instagram-ac.ipa",
+          "localizedDescription": "Instagram 453.0.0 AC 1.5 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 327940337,
+          "version": "453.0.0 (1.5)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ac-452.0.1/instagram-ac.ipa",
@@ -717,14 +733,6 @@
           "minOSVersion": "16.3",
           "size": 310087046,
           "version": "449.0.0 (1.5)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ac-448.0.0/instagram-ac.ipa",
-          "localizedDescription": "Instagram 448.0.0 AC 1.5 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 302919452,
-          "version": "448.0.0 (1.5)"
         }
       ]
     },
@@ -736,11 +744,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-bh.png",
-      "localizedDescription": "Instagram 452.0.1 BH 1.2 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 BH 1.2 for iOS.",
       "name": "Instagram (BH)",
       "screenshots": [],
       "subtitle": "BH tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-bh-453.0.0/instagram-bh.ipa",
+          "localizedDescription": "Instagram 453.0.0 BH 1.2 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 328119580,
+          "version": "453.0.0 (1.2)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-bh-452.0.1/instagram-bh.ipa",
@@ -772,14 +788,6 @@
           "minOSVersion": "16.3",
           "size": 310266322,
           "version": "449.0.0 (1.2)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-bh-448.0.0/instagram-bh.ipa",
-          "localizedDescription": "Instagram 448.0.0 BH 1.2 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 303098728,
-          "version": "448.0.0 (1.2)"
         }
       ]
     },
@@ -791,11 +799,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-dl-cracked.png",
-      "localizedDescription": "Instagram 452.0.1 DL 2.5 Cracked for iOS.",
+      "localizedDescription": "Instagram 453.0.0 DL 2.5 Cracked for iOS.",
       "name": "Instagram (DL, Cracked)",
       "screenshots": [],
       "subtitle": "DL tweak build, cracked",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-dl-cracked-453.0.0/instagram-dl-cracked.ipa",
+          "localizedDescription": "Instagram 453.0.0 DL 2.5 Cracked for iOS.",
+          "minOSVersion": "16.3",
+          "size": 328347919,
+          "version": "453.0.0 (2.5)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-dl-cracked-452.0.1/instagram-dl-cracked.ipa",
@@ -827,14 +843,6 @@
           "minOSVersion": "16.3",
           "size": 310494656,
           "version": "449.0.0 (2.5)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-dl-cracked-448.0.0/instagram-dl-cracked.ipa",
-          "localizedDescription": "Instagram 448.0.0 DL 2.5 Cracked for iOS.",
-          "minOSVersion": "16.3",
-          "size": 303327063,
-          "version": "448.0.0 (2.5)"
         }
       ]
     },
@@ -846,11 +854,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-igformat.png",
-      "localizedDescription": "instagram 452.0.1 IGFormat 2.6 for iOS.",
+      "localizedDescription": "instagram 453.0.0 IGFormat 2.6 for iOS.",
       "name": "Instagram (IGFormat)",
       "screenshots": [],
       "subtitle": "IGFormat tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-igformat-453.0.0/instagram-igformat.ipa",
+          "localizedDescription": "instagram 453.0.0 IGFormat 2.6 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 337766676,
+          "version": "453.0.0 (2.6)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-igformat-452.0.1/instagram-igformat.ipa",
@@ -882,14 +898,6 @@
           "minOSVersion": "16.3",
           "size": 319913418,
           "version": "449.0.0 (2.6)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-igformat-448.0.0/instagram-igformat.ipa",
-          "localizedDescription": "instagram 448.0.0 IGFormat 2.6 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 312745825,
-          "version": "448.0.0 (2.6)"
         }
       ]
     },
@@ -901,11 +909,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ink-plus.png",
-      "localizedDescription": "Instagram 452.0.1 INK Plus 5.3.3 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 INK Plus 5.3.4 for iOS.",
       "name": "Instagram (INK Plus)",
       "screenshots": [],
       "subtitle": "INK Plus tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-453.0.0/instagram-ink-plus.ipa",
+          "localizedDescription": "Instagram 453.0.0 INK Plus 5.3.4 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 329582592,
+          "version": "453.0.0 (5.3.4)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-452.0.1/instagram-ink-plus.ipa",
@@ -937,14 +953,6 @@
           "minOSVersion": "16.3",
           "size": 309776322,
           "version": "449.0.0 (5.2.10)"
-        },
-        {
-          "date": "2026-09-28",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ink-plus-448.0.0/instagram-ink-plus.ipa",
-          "localizedDescription": "Instagram 448.0.0 INK Plus 5.2.10 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 303036050,
-          "version": "448.0.0 (5.2.10)"
         }
       ]
     },
@@ -956,11 +964,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-lrd-cracked.png",
-      "localizedDescription": "Instagram 452.0.1 LRD 2.19 Cracked for iOS.",
+      "localizedDescription": "Instagram 453.0.0 LRD 2.19 Cracked for iOS.",
       "name": "Instagram (LRD, Cracked)",
       "screenshots": [],
       "subtitle": "LRD tweak build, cracked",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-lrd-cracked-453.0.0/instagram-lrd-cracked.ipa",
+          "localizedDescription": "Instagram 453.0.0 LRD 2.19 Cracked for iOS.",
+          "minOSVersion": "16.3",
+          "size": 332266015,
+          "version": "453.0.0 (2.19)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-lrd-cracked-452.0.1/instagram-lrd-cracked.ipa",
@@ -992,14 +1008,6 @@
           "minOSVersion": "16.3",
           "size": 314412770,
           "version": "449.0.0 (2.19)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-lrd-cracked-448.0.0/instagram-lrd-cracked.ipa",
-          "localizedDescription": "Instagram 448.0.0 LRD 2.19 Cracked for iOS.",
-          "minOSVersion": "16.3",
-          "size": 307245176,
-          "version": "448.0.0 (2.19)"
         }
       ]
     },
@@ -1011,11 +1019,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-ryukgram.png",
-      "localizedDescription": "Instagram 452.0.1 Moe RyukGram 1.4.5 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 Moe RyukGram 1.5 for iOS.",
       "name": "Instagram (Moe RyukGram)",
       "screenshots": [],
       "subtitle": "RyukGram tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-453.0.0/instagram-ryukgram.ipa",
+          "localizedDescription": "Instagram 453.0.0 Moe RyukGram 1.5 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 354610231,
+          "version": "453.0.0 (1.5)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-452.0.1/instagram-ryukgram.ipa",
@@ -1047,14 +1063,6 @@
           "minOSVersion": "16.3",
           "size": 335387061,
           "version": "449.0.0 (1.4.0)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-ryukgram-448.0.0/instagram-ryukgram.ipa",
-          "localizedDescription": "Instagram 448.0.0 Moe RyukGram 1.4.0 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 328219467,
-          "version": "448.0.0 (1.4.0)"
         }
       ]
     },
@@ -1121,11 +1129,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-nyx-b4.png",
-      "localizedDescription": "instagram 452.0.1 NYX 1.7.2 Beta for iOS.",
+      "localizedDescription": "instagram 453.0.0 NYX 1.7.2 Beta for iOS.",
       "name": "Instagram (NYX B4)",
       "screenshots": [],
       "subtitle": "NYX tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-453.0.0/instagram-nyx-b4.ipa",
+          "localizedDescription": "instagram 453.0.0 NYX 1.7.2 Beta for iOS.",
+          "minOSVersion": "16.3",
+          "size": 359011190,
+          "version": "453.0.0 (1.7.2)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-452.0.1/instagram-nyx-b4.ipa",
@@ -1157,14 +1173,6 @@
           "minOSVersion": "16.3",
           "size": 341157877,
           "version": "449.0.0 (1.7.2)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-nyx-b4-448.0.0/instagram-nyx-b4.ipa",
-          "localizedDescription": "instagram 448.0.0 NYX 1.7.2 Beta for iOS.",
-          "minOSVersion": "16.3",
-          "size": 333990282,
-          "version": "448.0.0 (1.7.2)"
         }
       ]
     },
@@ -1231,11 +1239,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-rocket-cracked.png",
-      "localizedDescription": "Instagram 452.0.1 Moe Rocket Cracked 4.3.3 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
       "name": "Instagram (Rocket, Cracked)",
       "screenshots": [],
       "subtitle": "Rocket tweak build, cracked",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-453.0.0/instagram-rocket-cracked.ipa",
+          "localizedDescription": "Instagram 453.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 328595418,
+          "version": "453.0.0 (4.3.3)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-452.0.1/instagram-rocket-cracked.ipa",
@@ -1267,14 +1283,6 @@
           "minOSVersion": "16.3",
           "size": 310742133,
           "version": "449.0.0 (4.3.3)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-rocket-cracked-448.0.0/instagram-rocket-cracked.ipa",
-          "localizedDescription": "Instagram 448.0.0 Moe Rocket Cracked 4.3.3 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 303574539,
-          "version": "448.0.0 (4.3.3)"
         }
       ]
     },
@@ -1286,11 +1294,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-sc.png",
-      "localizedDescription": "Instagram 452.0.1 SC 1.1.1 Moe for iOS.",
+      "localizedDescription": "Instagram 453.0.0 SC 1.1.1 Moe for iOS.",
       "name": "Instagram (SC)",
       "screenshots": [],
       "subtitle": "SC tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-sc-453.0.0/instagram-sc.ipa",
+          "localizedDescription": "Instagram 453.0.0 SC 1.1.1 Moe for iOS.",
+          "minOSVersion": "16.3",
+          "size": 328014237,
+          "version": "453.0.0 (1.1.1)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-sc-452.0.1/instagram-sc.ipa",
@@ -1322,14 +1338,6 @@
           "minOSVersion": "16.3",
           "size": 310161002,
           "version": "449.0.0 (1.1.1)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-sc-448.0.0/instagram-sc.ipa",
-          "localizedDescription": "Instagram 448.0.0 SC 1.1.1 Moe for iOS.",
-          "minOSVersion": "16.3",
-          "size": 302993408,
-          "version": "448.0.0 (1.1.1)"
         }
       ]
     },
@@ -1341,11 +1349,19 @@
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-theta.png",
-      "localizedDescription": "Instagram 452.0.1 Theta 5.0 for iOS.",
+      "localizedDescription": "Instagram 453.0.0 Theta 5.0 for iOS.",
       "name": "Instagram (Theta)",
       "screenshots": [],
       "subtitle": "Theta tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-453.0.0/instagram-theta.ipa",
+          "localizedDescription": "Instagram 453.0.0 Theta 5.0 for iOS.",
+          "minOSVersion": "16.3",
+          "size": 347315504,
+          "version": "453.0.0 (5.0)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-452.0.1/instagram-theta.ipa",
@@ -1377,14 +1393,6 @@
           "minOSVersion": "16.3",
           "size": 329462181,
           "version": "449.0.0 (5.0)"
-        },
-        {
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-theta-448.0.0/instagram-theta.ipa",
-          "localizedDescription": "Instagram 448.0.0 Theta 5.0 for iOS.",
-          "minOSVersion": "16.3",
-          "size": 322294587,
-          "version": "448.0.0 (5.0)"
         }
       ]
     },
@@ -1471,6 +1479,14 @@
       "subtitle": "TwitchControl tweak build",
       "versions": [
         {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.8/twitch-twitchcontrol.ipa",
+          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
+          "minOSVersion": "16.4",
+          "size": 194692797,
+          "version": "31.8 (0.0.6)"
+        },
+        {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.7/twitch-twitchcontrol.ipa",
           "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
@@ -1501,14 +1517,6 @@
           "minOSVersion": "16.4",
           "size": 191154778,
           "version": "31.5 (0.0.6)"
-        },
-        {
-          "date": "2026-10-01",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitch-twitchcontrol-31.4.4/twitch-twitchcontrol.ipa",
-          "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods settings",
-          "minOSVersion": "16.4",
-          "size": 185826808,
-          "version": "31.4.4 (0.0.6)"
         }
       ]
     },
@@ -1520,11 +1528,19 @@
       "bundleIdentifier": "tv.twitch",
       "developerName": "Moe Apps",
       "iconURL": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/twitchv-tweach.png",
-      "localizedDescription": "Twitch 31.7 Tweach 2.4.1 for iOS.",
+      "localizedDescription": "Twitch 31.8 Tweach 2.4.1 for iOS.",
       "name": "Twitch (Twitchv, Moe Tweach)",
       "screenshots": [],
       "subtitle": "Tweach tweak build",
       "versions": [
+        {
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.8/twitchv-tweach.ipa",
+          "localizedDescription": "Twitch 31.8 Tweach 2.4.1 for iOS.",
+          "minOSVersion": "16.4",
+          "size": 205662667,
+          "version": "31.8 (2.4.1)"
+        },
         {
           "date": "2026-10-21",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.7/twitchv-tweach.ipa",
@@ -1556,14 +1572,6 @@
           "minOSVersion": "16.4",
           "size": 202124649,
           "version": "31.5 (2.4.1)"
-        },
-        {
-          "date": "2026-10-01",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/twitchv-tweach-31.4.4/twitchv-tweach.ipa",
-          "localizedDescription": "Twitch 31.4.4 Tweach 2.4.1 for iOS.",
-          "minOSVersion": "16.4",
-          "size": 196796683,
-          "version": "31.4.4 (2.4.1)"
         }
       ]
     }
