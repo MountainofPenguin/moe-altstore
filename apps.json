@@ -93,6 +93,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.1/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 150028516,
+          "version": "2026.44.1 (4.6.1)"
+        },
+        {
           "date": "2026-11-03",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.0/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -123,14 +131,6 @@
           "minOSVersion": "16.0",
           "size": 145423943,
           "version": "2026.41.0 (4.6.1)"
-        },
-        {
-          "date": "2026-10-08",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.40.0/moereddit.ipa",
-          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 145178579,
-          "version": "2026.40.0 (4.5.1)"
         }
       ]
     },
@@ -640,6 +640,14 @@
       "subtitle": "Multi-tweak loader",
       "versions": [
         {
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-454.1.0/instagram-moe-multi.ipa",
+          "localizedDescription": "8.4 changelog= added sparkle",
+          "minOSVersion": "16.3",
+          "size": 457012869,
+          "version": "454.1.0 (8.7)"
+        },
+        {
           "date": "2026-11-04",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-454.1.0/instagram-moe-multi.ipa",
           "localizedDescription": "8.4 changelog= added sparkle",
@@ -670,14 +678,6 @@
           "minOSVersion": "16.3",
           "size": 417529373,
           "version": "451.0.0 (8.5)"
-        },
-        {
-          "date": "2026-10-08",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-450.1.0/instagram-moe-multi.ipa",
-          "localizedDescription": "8.4 changelog= added sparkle",
-          "minOSVersion": "16.3",
-          "size": 410070889,
-          "version": "450.1.0 (8.5)"
         }
       ]
     },

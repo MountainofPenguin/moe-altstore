@@ -490,21 +490,10 @@
   "instagram-moe-multi": {
     "app_id": "app_1757008016_9180",
     "bundle_identifier": "com.burbn.instagram",
-    "data_modified": 1793817157,
+    "data_modified": 1793993180,
     "description": "Do not sign with ESign. Hold the Reels button or use a three-finger gesture to open Moe Multi. A fresh install is recomm...",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/instagram-moe-multi.png",
     "versions": [
-      {
-        "data_modified": 1791483606,
-        "date": "2026-10-08",
-        "description": "8.4 changelog= added sparkle",
-        "display_name": "Instagram 450.1.0 Moe Multi 8.5",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-450.1.0/instagram-moe-multi.ipa",
-        "min_os_version": "16.3",
-        "sha256": "fd9ca41f8e114334db26fc88dfc6374662caf7fc5a6d83a0539846bdf6d6f9bb",
-        "size": 410070889,
-        "version": "450.1.0"
-      },
       {
         "data_modified": 1791859612,
         "date": "2026-10-13",
@@ -547,6 +536,17 @@
         "min_os_version": "16.3",
         "sha256": "613a2835f5c2427ab2902ad676076cf5eefed3afcb7493364ed1515847dba40e",
         "size": 455413090,
+        "version": "454.1.0"
+      },
+      {
+        "data_modified": 1793993180,
+        "date": "2026-11-06",
+        "description": "8.4 changelog= added sparkle",
+        "display_name": "Instagram 454.1.0 Moe Multi 8.7",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/instagram-moe-multi-454.1.0/instagram-moe-multi.ipa",
+        "min_os_version": "16.3",
+        "sha256": "84320a0ffad7378a9827904a142fbacc33ce01f84169ba75addf8a51c6dd4bca",
+        "size": 457012869,
         "version": "454.1.0"
       }
     ]
@@ -1002,21 +1002,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1793746322,
+    "data_modified": 1793993180,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1791483606,
-        "date": "2026-10-08",
-        "description": "Hold down with 3 fingers to open moemod menu",
-        "display_name": "Reddit 2026.40.0 MoesReddit 4.5.1 Moe",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.40.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "1e6d700d2c299e0487e14ee8fc5938ca7e743c94b1dcb678e5434a240f55cd53",
-        "size": 145178579,
-        "version": "2026.40.0"
-      },
       {
         "data_modified": 1791859612,
         "date": "2026-10-13",
@@ -1060,6 +1049,17 @@
         "sha256": "443c44aa371e21df5d3e2ef1d5558116ad07c2e177b299d90c594004408677fc",
         "size": 150029206,
         "version": "2026.44.0"
+      },
+      {
+        "data_modified": 1793993180,
+        "date": "2026-11-06",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.44.1 MoesReddit 4.6.1 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.1/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "836b12b648501d806adfc4a1a45461b5d3df7ed894ee6e9e17828e759d251225",
+        "size": 150028516,
+        "version": "2026.44.1"
       }
     ]
   },
