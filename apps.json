@@ -93,6 +93,14 @@
       "subtitle": "Reddit client, MoeReddit build",
       "versions": [
         {
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.45.0/moereddit.ipa",
+          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
+          "minOSVersion": "16.0",
+          "size": 144323747,
+          "version": "2026.45.0 (4.7.1)"
+        },
+        {
           "date": "2026-11-06",
           "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.44.1/moereddit.ipa",
           "localizedDescription": "Hold down with 3 fingers to open moemod menu",
@@ -123,14 +131,6 @@
           "minOSVersion": "16.0",
           "size": 146374029,
           "version": "2026.42.1 (4.6.1)"
-        },
-        {
-          "date": "2026-10-13",
-          "downloadURL": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.41.0/moereddit.ipa",
-          "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-          "minOSVersion": "16.0",
-          "size": 145423943,
-          "version": "2026.41.0 (4.6.1)"
         }
       ]
     },

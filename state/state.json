@@ -1002,21 +1002,10 @@
   "moereddit": {
     "app_id": "app_1769231115_3988",
     "bundle_identifier": "com.reddit.Reddit",
-    "data_modified": 1793993180,
+    "data_modified": 1794373382,
     "description": "Hold down with 3 fingers to open moemod menu",
     "icon_url": "https://raw.githubusercontent.com/MountainofPenguin/moe-altstore/main/icons/moereddit.png",
     "versions": [
-      {
-        "data_modified": 1791859612,
-        "date": "2026-10-13",
-        "description": "Hold down with 3 fingers to open moemod menu",
-        "display_name": "Reddit 2026.41.0 MoesReddit 4.6.1 Moe",
-        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.41.0/moereddit.ipa",
-        "min_os_version": "16.0",
-        "sha256": "7fc7359addcaa49e308362d61b2ac1e33a3a88053797141895c4a9ba15f09dc1",
-        "size": 145423943,
-        "version": "2026.41.0"
-      },
       {
         "data_modified": 1792622924,
         "date": "2026-10-21",
@@ -1060,6 +1049,17 @@
         "sha256": "836b12b648501d806adfc4a1a45461b5d3df7ed894ee6e9e17828e759d251225",
         "size": 150028516,
         "version": "2026.44.1"
+      },
+      {
+        "data_modified": 1794373382,
+        "date": "2026-11-11",
+        "description": "Hold down with 3 fingers to open moemod menu",
+        "display_name": "Reddit 2026.45.0 MoesReddit 4.7.1 Moe",
+        "download_url": "https://github.com/MountainofPenguin/moe-altstore/releases/download/moereddit-2026.45.0/moereddit.ipa",
+        "min_os_version": "16.0",
+        "sha256": "887c88159ff448dc445ccb2fdf6a882b6c55d410359d784a1e77f5f0077b7608",
+        "size": 144323747,
+        "version": "2026.45.0"
       }
     ]
   },
